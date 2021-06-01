@@ -4,5 +4,13 @@ This subdirectory contains template CSV files for inputting supply, demand, tech
 
 ## Supply File 
 
+The template supply file will look similar to the example below: 
+
+
+| # | Latitude | Longitude | Product ID | Price | Capacity |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| s1 | 43.835418 | -88.293544 | p5 | 0 | 1000 |
+| ...  | ... | ...  | ... | ...  | ... |
+
 
 
