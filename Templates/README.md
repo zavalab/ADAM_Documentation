@@ -19,12 +19,12 @@ The template supply file will look similar to the example below:
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
-| # | This is the name of the supply node |
+| # | ID code for the supply node (i.e. name of the supply node) |
 | Latitude | The latitude coordinate at which the node is located |
 | Longitude | The longitude coordinate at which the node is located |
-| Product ID | The product identification code that corresponds to the waste product being produced. <br>This information can be looked up in the ADAM product database. |
+| Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: This information can be looked up in the ADAM product database.__* |
 | Price | The price of the waste product |
-| Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> the time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for which units to use for each product.__* |
+| Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for which units to use for each product.__* |
 
 
 
