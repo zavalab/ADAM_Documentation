@@ -43,7 +43,7 @@ The template demand file will look similar to the example below:
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| d1 | 43.0731 | -89.4012 | p2 | 0.06 | 500 |
+| d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1200 |
 | ...  | ... | ...  | ... | ...  | ... |
 
 
