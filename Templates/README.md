@@ -29,8 +29,8 @@ A description of the information that goes under each heading can be found below
 
 <br>
 
-<p>Using this, we can interpert the entry in the example as a __supply node (denoted "s1")__ located at __43.0731 N, 89.4012 W__ which produces __liquid digestate waste product 
-(p5)__ at a yield of __500 tonnes per time basis__.</p>
+Using this, we can interpert the entry in the example as a supply node (denoted "s1") located at 43.0731 N, 89.4012 W which produces liquid digestate waste product 
+(p5) at a yield of 500 tonnes per time basis.
 
 
 
