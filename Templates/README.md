@@ -24,7 +24,7 @@ The template supply file will look similar to the example below:
 | Longitude | The longitude coordinate at which the node is located |
 | Product ID | The product identification code that corresponds to the waste product being produced. <br>This information can be looked up in the ADAM product database. |
 | Price | The price of the waste product |
-| Capacity | The amount of waste product produced on a time basis (i.e. 1000 tonnes per year) |
+| Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year) |
 
 
 
