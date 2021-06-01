@@ -14,13 +14,15 @@ The template supply file will look similar to the example below:
 | s1 | 43.835418 | -88.293544 | p5 | 0 | 1000 |
 | ...  | ... | ...  | ... | ...  | ... |
 
+<br>
+<br>
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
-| **#** | This is the name of the supply node |
-| **Latitude** | The latitude coordinate at which the node is located |
+| # | This is the name of the supply node |
+| Latitude | The latitude coordinate at which the node is located |
 | Longitude | The longitude coordinate at which the node is located |
-| Product ID | The product identification code which corresponds to the waste product being produced. This innformation can be looked up in the ADAM product database. |
+| Product ID | The product identification code which corresponds to the waste product being produced. <br>This innformation can be looked up in the ADAM product database. |
 | Price | The price of the waste product |
 | Capacity | The amount of waste product produced on a time basis (i.e. 1000 tonnes per year) |
 
