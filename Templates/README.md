@@ -28,7 +28,7 @@ A description of the information that goes under each heading can be found below
 | Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for which units to use for each product.__* |
 
 <br>
-Using this, we can interpert the entry in the example as a **supply node (denoted "s1")** located at **43.0731 N, 89.4012 W** which produces **liquid digestate waste product (p5)** at a yield of **500 tonnes per time basis**. 
+Using this, we can interpert the entry in the example as a __supply node (denoted "s1")__ located at __43.0731 N, 89.4012 W__ which produces __liquid digestate waste product (p5)__ at a yield of __500 tonnes per time basis__. 
 
 
 
