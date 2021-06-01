@@ -15,8 +15,7 @@ The template supply file will look similar to the example below:
 | ...  | ... | ...  | ... | ...  | ... |
 
 <br>
-<br>
-
+A description of the information that goes under each heading can be found below: 
 | Header Symbol | Description |
 | ------------- | ------------- | 
 | # | ID code for the supply node (i.e. name of the supply node) |
