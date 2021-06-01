@@ -37,6 +37,8 @@ Using this, we can interpert the entry in the example as a supply node (denoted 
 
 ## Demand File 
 
+The demand data file contains information about the nodes that demand
+
 The template demand file will look similar to the example below: 
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
