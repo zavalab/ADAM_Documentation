@@ -134,9 +134,8 @@ The common headers and their descriptions for the technology site file are expla
 | # | Name of the technology site node (up to user preference). |
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
-| Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: this can be looked up in the ADAM technology database.__* |
+| Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 | Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: the type of product used as input for each technology can be looked up in the technology database__* |
-
 <br>
 
 Here is how it would look in a technology site file used in ADAM:
@@ -167,3 +166,32 @@ Now try to interpert this example technology site file on your own:
 
 
 ## Technology Candidate File 
+
+The technology candidate file provides information on the possible technologies that can be installed at a certian location. THis information will be used by ADAM in the model solving process to determine which technologies to build at each location. 
+
+
+<br>
+The common headers and their descriptions for the technology candidate file are explained below: 
+<br>
+| Header Symbol | Description |
+| ------------- | ------------- | 
+| # | Name of the technology candidate node (up to user preference). |
+| Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
+| Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
+| Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
+<br>
+
+Here is how it would look in a technology candidate file used in ADAM:
+| # |	Latitude | Longitude | Tech ID |
+| tc1 | 43.61586956 | -95.8516807 | t15 |
+|...| ...| ...| ...|
+
+This entry, **tc1**, is saying that it is **possible** for t15 to be installed at location **43.61586956 N, 95.8516807 W**.
+
+
+
+
+
+
+
+
