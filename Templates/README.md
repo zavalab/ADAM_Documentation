@@ -167,7 +167,7 @@ Now try to interpert this example technology site file on your own:
 
 ## Technology Candidate File 
 
-The technology candidate file provides information on the possible technologies that can be installed at a certain location. This information will be used by ADAM in the model solving process to determine which technologies to build at each location. 
+The technology candidate file provides information on the possible technologies that can be installed at a certain location. This information will be used by ADAM in the model solving process to determine which technologies (if any) to build at each location. 
 
 
 <br>
@@ -194,7 +194,7 @@ This entry, **tc1**, is saying that it is **possible** for t15 to be installed a
 **Note: a single location can take on many different technology candidates.**
 
 <br>
-Now try to interpert this example technology candidate file on your own: 
+Now try to interpret this example technology candidate file on your own: 
 
 | # |	Latitude | Longitude | Tech ID |
 | ------------- | ------------- | ------------- | ------------- |
