@@ -5,6 +5,7 @@ This subdirectory contains template CSV files for inputting supply, demand, tech
 <br>
 For more information on each type of file see below.
 <br>
+<br>
 
 <details> 
   <summary>Contents</summary>
