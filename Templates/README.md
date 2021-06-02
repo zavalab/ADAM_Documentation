@@ -22,7 +22,7 @@ For more information on each type of file see below.
 ## Supply File 
 
 The supply file contains data on the location, price, and yield of a product. 
-For most models in ADAM, the supply of product is typically cow manure produced by Concentrated Animal Feeding Operations (CAFOs). 
+For most models in ADAM, the supply of product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). 
 <br>
 
 <br>
