@@ -208,7 +208,9 @@ Now try to interpert this example technology candidate file on your own:
 <details> 
   <summary>Check your answer here.</summary>
   <br>
-  The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
+  Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for building technologies <b>t15, t16, and t23</b>. <br>
+  Loaction <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br>
+  To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
 </details>
 <br>
 
