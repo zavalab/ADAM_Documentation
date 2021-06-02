@@ -8,21 +8,21 @@ For more information on each type of file see below.
 ## Supply File 
 
 The supply file contains data on the location, price, and yield of a waste product. 
-For most models in ADAM, the supply of waste product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). <br>
+For most models in ADAM, the supply of waste product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). 
+<br>
 
 <br>
-The common headers and their descriptions are explained below: 
+The common headers and their descriptions for the supply file are explained below: 
 <br>
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
-| # | ID code for the supply node (i.e. name of the supply node). The name is up to user discretion. |
+| # | Name of the supply node (up to user preference). |
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
-| Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this information can be looked up in the ADAM product database.__* |
+| Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this can be looked up in the ADAM product database.__* |
 | Price | The price of the waste product in USD per product unit (e.g. USD per tonnes). <br> ***note: check the ADAM product database for product units.***  |
 | Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
-
 <br>
 
 
@@ -33,13 +33,10 @@ Here is how it would look in a supply file used in ADAM:
 | s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-<p>
-Using these information, we can interpert the entry in the example above as a supply node (which is denoted "s1" for simplicity) located at 43.0731 N, 89.4012 W which produces 
-
-liquid digestate waste product (p5) at a yield of 500 tonnes per time basis and at zero cost to the supplier.  
+Using the given information, we can interpert the entry in the example above as a supply node (which is denoted "s1" for simplicity) located at 43.0731 N, 89.4012 W which 
+produces liquid digestate waste product (p5) at a yield of 500 tonnes per time basis and at zero cost to the supplier.  
 
 **Remember:** time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.
- </p>
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -47,25 +44,59 @@ Now try to interpert this example supply file on your own:
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ...  | ... | ...  | ... | ...  | ... |
-| s5 | 39.7687 | -76.6797 | p25 | 0.06 | 1200 |
+| s5 | 39.7687 | -76.6797 | p25 | 0.06 | 100 |
 | ...  | ... | ...  | ... | ...  | ... |
 
 <details> 
   <summary>Check your answer here.</summary>
-  Supply node s5 is located at 39.7687 N, 76.6797 W which produces Biogas (60% CH4) at a yield of 1200 cubic meters per time basis, at a cost of 0.06 USD per cubic meter.  
+  Supply node s5 is located at 39.7687 N, 76.6797 W which produces Biogas (60% CH4) at a yield of 100 cubic meters per time basis, at a cost of 0.06 USD per cubic meter.  
 </details>
 <br>
 
 ## Demand File 
 
 The demand data file contains information about the nodes that can demand any products available. These nodes can be CAFOs, technology sites, croplands, external customers, etc.
-CAFOs and technology sites tend to demand electricity or biogas, and croplands demand nutrients from waste products. 
+CAFOs and technology sites tend to demand electricity and biogas, croplands tend to demand nutrients from waste products, and external customers demand the valuable products 
+created by technology sites. 
 
-The template demand file will look similar to the example below: 
+<br>
+The demand file has the exact same file headers as the supply file with slightly different interpertations. Theses headers and their descriptions are explained below: 
+<br>
+
+| Header Symbol | Description |
+| ------------- | ------------- | 
+| # | Name of the demand node (up to user preference). |
+| Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
+| Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
+| Product ID | The product identification code that corresponds to the product demanded by the node. <br>*__note: this can be looked up in the ADAM product database.__* |
+| Price | The market price of the product per product unit (i.e. the price at which the node is purchasing the product). <br> ***note: check the ADAM product database for product units.***  |
+| Capacity | The **maximum** amount of product that the node can demand on a per time basis (e.g. 1000 tonnes per year). The actual amount of product that the demand node receives may be less than or equal to this number. <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
+
+<br>
+
+Here is how it would look in a demand file used in ADAM: 
+| # | Latitude | Longitude | Product ID | Price | Capacity |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1700 |
+| ...  | ... | ...  | ... | ...  | ... |
+
+We can now interpert d1 as a demand node located at 43.0731 N, 89.4012 W which demands a maximum of 1700 kWh of bio-electricity per time basis at a price of $0.06 USD per kWh.
+In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
+**Remember:** time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.
+
+<br>
+Now try to interpert this example supply file on your own: 
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1200 |
 | ...  | ... | ...  | ... | ...  | ... |
+| d32 | 38.9072 | -77.0369 | p24 | 200 | 5250 |
+| ...  | ... | ...  | ... | ...  | ... |
+
+<details> 
+  <summary>Check your answer here.</summary>
+  The demand node, d32, is located at 38.9072 N, 77.0369 W and demands 5,250 metric tonnes of phosphorus (on a per time basis), at a cost of $200 per metric tonne. 
+</details>
+<br>
 
 
