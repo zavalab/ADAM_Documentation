@@ -49,6 +49,7 @@ Now try to interpert this example supply file on your own:
 
 <details> 
   <summary>Check your answer here.</summary>
+  <br>
   Supply node s5 is located at 39.7687 N, 76.6797 W which produces Biogas (60% CH4) at a yield of 100 cubic meters per time basis, at a cost of 0.06 USD per cubic meter.  
 </details>
 <br>
@@ -95,6 +96,7 @@ Now try to interpert this example supply file on your own:
 
 <details> 
   <summary>Check your answer here.</summary>
+  <br>
   The demand node, d32, is located at 38.9072 N, 77.0369 W and demands 5,250 metric tonnes of phosphorus (on a per time basis), at a cost of $200 per metric tonne. 
 </details>
 <br>
