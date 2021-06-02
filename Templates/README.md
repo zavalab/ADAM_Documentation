@@ -186,6 +186,7 @@ The common headers and their descriptions for the technology candidate file are 
 Here is how it would look in a technology candidate file used in ADAM:
 
 | # |	Latitude | Longitude | Tech ID |
+| ------------- | ------------- | ------------- | ------------- |
 | tc1 | 43.61586956 | -95.8516807 | t15 |
 |...| ...| ...| ...|
 
