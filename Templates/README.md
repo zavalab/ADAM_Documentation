@@ -150,3 +150,7 @@ Now try to interpert this example technology site file on your own:
   The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
 </details>
 <br>
+
+
+
+## Technology Candidate File 
