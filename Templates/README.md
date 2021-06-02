@@ -130,3 +130,5 @@ Here is how it would look in a technology site file used in ADAM:
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | ts1 | 41.434208 | -86.876593 | t33 | 10000 |
 | ... | ... | ... | ... | ... |
+
+We can interpert this entry as a **AD-Electricity-SLS (S, cow) technology site**, denoted **ts1**, **located at 41.434208 N, 86.876593 W** with a **capacity of processing 10000 metric tonnes of cow manure** per time basis. 
