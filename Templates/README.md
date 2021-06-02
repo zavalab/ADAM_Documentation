@@ -18,7 +18,7 @@ The common headers and their descriptions are explained below:
 | # | ID code for the supply node (i.e. name of the supply node). The name is up to user discretion. |
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
-| Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this information can be looked up in the [ADAM product database.](http://54.208.179.171:8000/expert/usermain/prodbase?keywords=&list_prod=List+All+Prod)__* |
+| Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this information can be looked up in the [ADAM product database.](http://54.208.179.171:8000/expert/usermain/prodbase)__* |
 | Price | The price of the waste product in USD per product unit (e.g. USD per tonnes). <br> ***note: check the ADAM product database for product units.***  |
 | Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
@@ -49,6 +49,9 @@ Now try to interpert this example supply file on your own:
   <summary>Check your answer here.</summary>
   Supply node s5 is located at 39.7687 N, 76.6797 W which produces Biogas (60% CH4) at a yield of 1200 cubic meters per time basis, at a cost of 0.06 USD per cubic meter.  
 </details>
+
+<br>
+<br>
 
 ## Demand File 
 
