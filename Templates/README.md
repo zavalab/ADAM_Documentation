@@ -9,13 +9,6 @@ For more information on each type of file see below.
 The supply file contains data on the location, price, and yield of a waste product. 
 For models in ADAM, the supply of waste product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). <br>
 
-The template supply file will look similar to the example below: 
-
-| # | Latitude | Longitude | Product ID | Price | Capacity |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
-| ...  | ... | ...  | ... | ...  | ... |
-
 <br>
 A description of the information that goes under each heading can be found below:
 <br>
@@ -30,6 +23,14 @@ A description of the information that goes under each heading can be found below
 | Capacity | The amount of waste product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product unit.__* |
 
 <br>
+
+
+The template supply file will look similar to the example below: 
+
+| # | Latitude | Longitude | Product ID | Price | Capacity |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
+| ...  | ... | ...  | ... | ...  | ... |
 
 Using this, we can interpert the entry in the example as a supply node (denoted "s1") located at 43.0731 N, 89.4012 W which produces liquid digestate waste product 
 (p5) at a yield of 500 tonnes per time basis.
