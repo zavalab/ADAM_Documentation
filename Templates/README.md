@@ -5,7 +5,7 @@ This subdirectory contains template CSV files for inputting supply, demand, tech
 <details> 
   <summary>Contents</summary>
   <br>
-  <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#supply-file">Supply File</a>
+  <a href="#Supply File">Supply File</a>
 </details>
 <br>
 
