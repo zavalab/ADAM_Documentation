@@ -109,7 +109,7 @@ The technology site file contains information on existing and pseudo technologie
 
 <br>
 
-**Pseudo technologies** are not physical techology site and thus do not require installation or operational costs. Instead, pseudo technologies represent natural processes such as fertilizers releasing nutrients into the soil. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. In order to represent this process in ADAM, a pseduo technology that transforms struvite to phosphorus is defined. 
+Unlike existing technologies, **pseudo technologies** are not physical techology sites and thus do not require installation or operational costs. Instead, pseudo technologies represent natural processes such as fertilizers releasing nutrients into the soil. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. In order to represent this process in ADAM, a pseduo technology that transforms struvite to phosphorus is defined. 
 
 <br>
 The common headers and their descriptions for the technology site file are explained below: 
