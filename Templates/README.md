@@ -119,7 +119,7 @@ Now try to interpert this example supply file on your own:
 
 ## Technology Site File 
 
-The technology site file contains information on existing and pseudo technologies. 
+The technology site file contains information on existing and pseudo technologies. These technologies allow for one product to be transformed into another. 
 
 <br>
 
@@ -167,7 +167,7 @@ Now try to interpert this example technology site file on your own:
 
 ## Technology Candidate File 
 
-The technology candidate file provides information on the possible technologies that can be installed at a certian location. THis information will be used by ADAM in the model solving process to determine which technologies to build at each location. 
+The technology candidate file provides information on the possible technologies that can be installed at a certain location. This information will be used by ADAM in the model solving process to determine which technologies to build at each location. 
 
 
 <br>
@@ -209,7 +209,7 @@ Now try to interpert this example technology candidate file on your own:
   <summary>Check your answer here.</summary>
   <br>
   Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for installing technologies <b>t15, t16, and t23</b>. <br>
-  Loaction <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br>
+  Location <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br>
   To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
 </details>
 <br>
