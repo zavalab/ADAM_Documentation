@@ -122,9 +122,10 @@ The common headers and their descriptions for the technology site file are expla
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: this can be looked up in the ADAM technology database.__* |
 | Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
+
 <br>
 
-
+Here is how it would look in a technology site file used in ADAM:
 | # |	Latitude | Longitude | Tech ID | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | ts1 | 41.434208 | -86.876593 | t33 | 10000 |
