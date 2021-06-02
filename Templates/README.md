@@ -191,6 +191,27 @@ Here is how it would look in a technology candidate file used in ADAM:
 |...| ...| ...| ...|
 
 This entry, **tc1**, is saying that it is **possible** for t15 to be installed at location **43.61586956 N, 95.8516807 W**.
+**Note: a single location can take on many different technology candidates.**
+
+<br>
+Now try to interpert this example technology candidate file on your own: 
+
+| # |	Latitude | Longitude | Tech ID |
+| ------------- | ------------- | ------------- | ------------- |
+|...| ...| ...| ...|
+| tc6 | 43.61586956 | -95.8516807 | t15 |
+| tc7 | 43.61586956 | -95.8516807 | t16 |
+| tc8 | 43.61586956 | -95.8516807 | t23 |
+| tc9 | 39.045753 | -76.641273 | t15 |
+|...| ...| ...| ...|
+
+<details> 
+  <summary>Check your answer here.</summary>
+  <br>
+  The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
+</details>
+<br>
+
 
 
 
