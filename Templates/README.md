@@ -110,5 +110,16 @@ operational costs. Instead, pseudo technologies represent natural processes such
 fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. In 
 order to represent this process in ADAM, a pseduo technology that transforms struvite to phosphorus is defined. 
 
+<br>
+The common headers and their descriptions for the technology site file are explained below: 
+<br>
 
+| Header Symbol | Description |
+| ------------- | ------------- | 
+| # | Name of the technology site node (up to user preference). |
+| Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
+| Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
+| Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: this can be looked up in the ADAM technology database.__* |
+| Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
+<br>
 
