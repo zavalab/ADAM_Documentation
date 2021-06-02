@@ -1,7 +1,6 @@
 # Templates 
 
-This subdirectory contains template CSV files for inputting supply, demand, technology site, and technology candidate data; a singe point is added in each template as an 
-example. These files can then be used for creating case studies in [ADAM.](http://54.208.179.171:8000/)
+This subdirectory contains template CSV files for inputting supply, demand, technology site, and technology candidate data. These files can then be used for creating case studies in [ADAM.](http://54.208.179.171:8000/) Each template contains a single entry as an example. 
 
 For more information on each type of file see below.
 <br>
