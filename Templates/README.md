@@ -37,7 +37,7 @@ Here is how it would look in a supply file used in ADAM:
 Using the given information, we can interpert the entry in the example above as a supply node, denoted as **s1**, located at **43.0731 N, 89.4012 W** which 
 produces **liquid digestate waste product (p5)** at a yield of **500 tonnes per time basis** and at **zero cost** to the supplier.  
 
-**Remember:** time is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
+**Remember:** the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -85,7 +85,7 @@ Here is how it would look in a demand file used in ADAM:
 We can now interpert **d1** as a demand node located at **43.0731 N, 89.4012 W** which demands a **maximum of 1700 kWh of bio-electricity** per time basis at a price of **$0.06 USD per kWh.**
 In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
 
-**Remember:** time is defined on the first step of creating a model in ADAM.
+**Remember:** the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -99,7 +99,7 @@ Now try to interpert this example supply file on your own:
 <details> 
   <summary>Check your answer here.</summary>
   <br>
-  The demand node, d32, is located at 38.9072 N, 77.0369 W and demands 5,250 metric tonnes of phosphorus (on a per time basis), at a cost of $200 per metric tonne. 
+  The demand node, <b>d32</b>, is located at <b>38.9072 N, 77.0369 W</b> and demands <b>5,250 metric tonnes of phosphorus</b> (on a per time basis), at a cost of <b>$200 per metric tonne</b>. 
 </details>
 <br>
 
