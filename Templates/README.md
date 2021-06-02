@@ -37,7 +37,7 @@ Here is how it would look in a supply file used in ADAM:
 Using the given information, we can interpert the entry in the example above as a supply node, denoted as **s1**, located at **43.0731 N, 89.4012 W** which 
 produces **liquid digestate waste product (p5)** at a yield of **500 tonnes per time basis** and at **zero cost** to the supplier.  
 
-**Remember:** time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.
+**Remember:** time is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -82,9 +82,10 @@ Here is how it would look in a demand file used in ADAM:
 | d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1700 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-We can now interpert d1 as a demand node located at 43.0731 N, 89.4012 W which demands a maximum of 1700 kWh of bio-electricity per time basis at a price of $0.06 USD per kWh.
+We can now interpert **d1** as a demand node located at **43.0731 N, 89.4012 W** which demands a **maximum of 1700 kWh of bio-electricity** per time basis at a price of **$0.06 USD per kWh.**
 In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
-**Remember:** time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.
+
+**Remember:** time is defined on the first step of creating a model in ADAM.
 
 <br>
 Now try to interpert this example supply file on your own: 
