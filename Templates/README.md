@@ -45,9 +45,12 @@ Now try to interpert this example supply file on your own:
 | s5 | 39.7687 | -76.6797 | p25 | 0.06 | 1200 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-Check your answer here. 
+<details> 
+  <summary>Check your answer here.</summary>
+  
+  The answer expained. 
 
-
+</details>
 
 ## Demand File 
 
