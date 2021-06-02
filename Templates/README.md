@@ -60,7 +60,7 @@ CAFOs and technology sites tend to demand electricity and biogas, croplands tend
 created by technology sites. 
 
 <br>
-The demand file has the exact same file headers as the supply file with slightly different interpertations. Theses headers and their descriptions are explained below: 
+The demand file has the same file headers as the supply file with slightly different interpertations. These headers and their descriptions are explained below: 
 <br>
 
 | Header Symbol | Description |
