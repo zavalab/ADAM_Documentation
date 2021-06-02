@@ -1,3 +1,3 @@
 # ADAM_Tutorial
 
-GitHub Page containing example case study CSV files available for download 
+GitHub Page containing example case study and template files available for download 
