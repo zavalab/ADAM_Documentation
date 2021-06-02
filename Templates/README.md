@@ -5,11 +5,15 @@ This subdirectory contains template CSV files for inputting supply, demand, tech
 <details> 
   <summary>Contents</summary>
   <br>
-  <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#supply-file">Supply File</a>
-  <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#demand-file">Demand File</a>
-  <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-site-file">Technology Site File</a>
-  <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-candidate-file">Technology Candidate File</a>
+    <ol>
+      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#supply-file">Supply File</a></li>
+      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#demand-file">Demand File</a></li>
+      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-site-file">Technology Site File</a></li>
+      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-candidate-file">Technology Candidate File</a></li>
+    </ol>  
+  <br>
 </details>
+
 <br>
 
 For more information on each type of file see below.
