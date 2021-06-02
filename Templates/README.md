@@ -208,7 +208,7 @@ Now try to interpert this example technology candidate file on your own:
 <details> 
   <summary>Check your answer here.</summary>
   <br>
-  Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for building technologies <b>t15, t16, and t23</b>. <br>
+  Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for installing technologies <b>t15, t16, and t23</b>. <br>
   Loaction <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br>
   To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
 </details>
