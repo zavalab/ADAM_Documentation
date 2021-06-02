@@ -179,8 +179,7 @@ The common headers and their descriptions for the technology candidate file are 
 | # | Name of the technology candidate node (up to user preference). |
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
-| Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM 
-technology database.__* |
+| Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 
 <br>
 
