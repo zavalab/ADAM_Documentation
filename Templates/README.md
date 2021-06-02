@@ -53,7 +53,8 @@ Now try to interpert this example supply file on your own:
 
 ## Demand File 
 
-The demand data file contains information about the nodes that demand
+The demand data file contains information about the nodes that can demand any products available. These nodes can be CAFOs, technology sites, croplands, external customers, etc.
+CAFOs tend 
 
 The template demand file will look similar to the example below: 
 
