@@ -16,9 +16,7 @@ For more information on each type of file see below.
       <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-site-file">Technology Site File</a></li>
       <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-candidate-file">Technology Candidate File</a></li>
     </ol>  
-  <br>
 </details>
-
 <br>
 
 ## Supply File 
