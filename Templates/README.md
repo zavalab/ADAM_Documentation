@@ -132,4 +132,21 @@ Here is how it would look in a technology site file used in ADAM:
 | ts1 | 41.434208 | -86.876593 | t33 | 10000 |
 | ... | ... | ... | ... | ... |
 
-We can interpert this entry as a **AD-Electricity-SLS (S, cow) technology site**, denoted **ts1**, **located at 41.434208 N, 86.876593 W** with a **capacity of processing 10000 metric tonnes of cow manure** per time basis. 
+We can interpert this entry as a **AD-Electricity-SLS (S, cow) technology site**, denoted **ts1**, **located at 41.434208 N, 86.876593 W** with a **capacity of processing 10,000 metric tonnes of cow manure** per time basis. 
+
+
+<br>
+Now try to interpert this example technology site file on your own: 
+
+| # |	Latitude | Longitude | Tech ID | Capacity |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| ... | ... | ... | ... | ... |
+| ts23 | 39.045753 | -76.641273 | t60 | 150000 |
+| ... | ... | ... | ... | ... |
+
+<details> 
+  <summary>Check your answer here.</summary>
+  <br>
+  The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
+</details>
+<br>
