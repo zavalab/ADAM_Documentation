@@ -34,7 +34,7 @@ Here is how it would look in a supply file used in ADAM:
 
 Using these information, we can interpert the entry in the example above as a supply node (which is denoted "s1" for simplicity) located at 43.0731 N, 89.4012 W which produces 
 liquid digestate waste product (p5) at a yield of 500 tonnes per time basis and at zero cost to the supplier.  
-**Remember: time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.** 
+**Remember:** time is defined on the first step of creating a model in ADAM, so there is no way to know the time basis from the supply file alone.
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -45,7 +45,7 @@ Now try to interpert this example supply file on your own:
 | s5 | 39.7687 | -76.6797 | p25 | 0.06 | 1200 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-
+Check your answer here. 
 
 
 
