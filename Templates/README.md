@@ -47,9 +47,7 @@ Now try to interpert this example supply file on your own:
 
 <details> 
   <summary>Check your answer here.</summary>
-  
-  The answer expained. 
-
+  Supply node s5 is located at 39.7687 N, 76.6797 W which produces Biogas (60% CH4) at a yield of 1200 cubic meters per time basis, at a cost of 0.06 USD per cubic meter.  
 </details>
 
 ## Demand File 
