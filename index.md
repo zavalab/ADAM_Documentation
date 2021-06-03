@@ -1,8 +1,6 @@
 # Welcome to ADAM Tutorial!
 
 ## About ADAM
-<br>
-
  <p>
     ADAM, which stands for Advanced Decision-Making and Management, is a web-based tool used for analyzing and solving <b>organic waste management (OWM)</b> problems. These OWM problems often involve the interactions bewteen <b>concentrated animal feeding operations (CAFOs)</b>, waste management plants, cropfields, and external customers. ADAM takes these interactions into account in order to determine the most economically-favorable pathways that the waste should take.
  </p> 
@@ -18,7 +16,7 @@
 ## Contents 
 
 <details>
-    <summary>Unit 1</summary>
+    <summary>>Unit 1</summary>
     <ol>
         <li>Coffee</li>
         <li>Tea</li>
@@ -33,4 +31,4 @@ Testing
 </details>
 
 <br> 
-[templates](https://github.com/mshen42/ADAM_Tutorial/blob/main/Templates/README.md)
+[Input Files For ADAM](/input_files.md)
