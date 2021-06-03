@@ -138,7 +138,7 @@ Now try to interpert this example supply file on your own:
   <summary>Click here to check your answer</summary>
     <p>
         The demand node, <b>d32</b>, is located at <b>38.9072 N, 77.0369 W</b> and demands <b>5,250 metric tonnes of phosphorus</b> (on a per time basis), at a cost of <b>$200 per metric tonne</b>. 
-    <p>
+    </p>
 </details>
 
 
