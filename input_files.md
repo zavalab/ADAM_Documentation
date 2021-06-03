@@ -1,12 +1,14 @@
-# Templates 
+# Input Files
 
-This subdirectory contains template CSV files for inputting supply, demand, technology site, and technology candidate data. These files can then be used for creating case studies in ADAM. Each template contains a single entry as an example. 
+<p>
+    In order for ADAM to generate a solution, we must first give it information about the problem we are trying to solve. This information is provided to ADAM in the form of several key data files: the supply file, the demand file, the technology site file, and the technology candidate file. 
+</p>
 
-<br>
-For more information on each type of file see below.
-<br>
-<br>
+<p>
+    In this tutorial, we will go through each of the file types, the information it is providing, and how to interpert an entry. 
+</p>
 
+<!--
 <details> 
   <summary>Contents</summary>
   <br>
@@ -17,6 +19,7 @@ For more information on each type of file see below.
       <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-candidate-file">Technology Candidate File</a></li>
     </ol>  
 </details>
+-->
 <br>
 
 ## Supply File 
