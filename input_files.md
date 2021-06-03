@@ -54,7 +54,7 @@ The common headers and their descriptions for the supply file are explained belo
 <br>
 
 <p>
-Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W<b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
+Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W</b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
 </p>
 
 <p>
