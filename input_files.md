@@ -46,15 +46,15 @@ The common headers and their descriptions for the supply file are explained belo
     Here is how it would look in a supply file used in ADAM: 
 </p>
 
+
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-<br>
 
 <p>
-Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W</b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
+    Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W</b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
 </p>
 
 <p>
@@ -64,28 +64,32 @@ Using the given information, we can interpert the entry in the example above as 
 <br>
 Now try to interpert this example supply file on your own: 
 
+
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ...  | ... | ...  | ... | ...  | ... |
 | s5 | 39.7687 | -76.6797 | p25 | 0.06 | 100 |
 | ...  | ... | ...  | ... | ...  | ... |
 
+
 <details> 
-  <summary>Check your answer here.</summary>
-  <br>
-  Supply node <b>s5</b> is located at <b>39.7687 N, 76.6797 W</b> which produces <b>Biogas (60% CH4)</b> at a yield of <b>100 cubic meters per time basis</b>, at a cost of <b>0.06 USD per cubic meter</b>.  
+  <summary>Click here to check your answer</summary>
+    <p>
+        Supply node <b>s5</b> is located at <b>39.7687 N, 76.6797 W</b> which produces <b>Biogas (60% CH4)</b> at a yield of <b>100 cubic meters per time basis</b>, at a cost of <b>0.06 USD per cubic meter</b>.  
+    </p>
 </details>
-<br>
+
 
 ## Demand File 
 
-The demand data file contains information about the nodes that can demand any products available. These nodes can be CAFOs, technology sites, croplands, external customers, etc.
-CAFOs and technology sites tend to demand electricity and biogas, croplands tend to demand nutrients from waste products, and external customers demand the valuable products 
-created by technology sites. 
+<p>
+    The demand data file contains information about the nodes that can demand any products available. These nodes can be CAFOs, technology sites, croplands, external customers, etc.CAFOs and technology sites tend to demand electricity and biogas, croplands tend to demand nutrients from waste products, and external customers demand the valuable products created by technology sites. 
+</p>
 
-<br>
-The demand file has the same file headers as the supply file with slightly different interpertations. These headers and their descriptions are explained below: 
-<br>
+<p>
+    The demand file has the same file headers as the supply file with slightly different interpertations. These headers and their descriptions are explained below: 
+</p>
+
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
@@ -96,21 +100,32 @@ The demand file has the same file headers as the supply file with slightly diffe
 | Price | The market price of the product per product unit (i.e. the price at which the node is purchasing the product). <br> ***note: check the ADAM product database for product units.***  |
 | Capacity | The **maximum** amount of product that the node can demand on a per time basis (e.g. 1000 tonnes per year). The actual amount of product that the demand node receives may be less than or equal to this number. <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
+
 <br>
 
+<p>
 Here is how it would look in a demand file used in ADAM: 
+</p>
+
+
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1700 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-We can now interpert **d1** as a demand node located at **43.0731 N, 89.4012 W** which demands a **maximum of 1700 kWh of bio-electricity** per time basis at a price of **$0.06 USD per kWh.**
-In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
 
-**Remember:** the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
+<p>
+    We can now interpert <b>d1</b> as a demand node located at <b>43.0731 N, 89.4012 W</b> which demands a <b>maximum of 1700 kWh of bio-electricity</b> per time basis at a price of <b>$0.06 USD per kWh</b>. In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
+</p>
 
-<br>
+<p>
+    <b>Remember:</b> the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
+</p>
+
+<p>
 Now try to interpert this example supply file on your own: 
+</p>
+
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -118,29 +133,31 @@ Now try to interpert this example supply file on your own:
 | d32 | 38.9072 | -77.0369 | p24 | 200 | 5250 |
 | ...  | ... | ...  | ... | ...  | ... |
 
+
 <details> 
   <summary>Click here to check your answer</summary>
     <p>
         The demand node, <b>d32</b>, is located at <b>38.9072 N, 77.0369 W</b> and demands <b>5,250 metric tonnes of phosphorus</b> (on a per time basis), at a cost of <b>$200 per metric tonne</b>. 
     <p>
 </details>
-<br>
 
 
 ## Technology Site File 
 
 <p>
-The technology site file contains information on existing and pseudo technologies. These technologies allow for one product to be transformed into another. 
+    The technology site file contains information on existing and pseudo technologies. These technologies allow for one product to be transformed into another. 
 </p>
 
 <p>
-Unlike existing technologies, **pseudo technologies** are not physical techology sites and thus do not require installation or operational costs. Instead, **pseudo technologies represent natural processes such as the release of nutrients into the soil**. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
+    Unlike existing technologies, **pseudo technologies** are not physical techology sites and thus do not require installation or operational costs. Instead, **pseudo technologies represent natural processes such as the release of nutrients into the soil**. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
 </p>
 
 <br>
+
 <p>
 The common headers and their descriptions for the technology site file are explained below: 
 </p>
+
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
@@ -149,19 +166,30 @@ The common headers and their descriptions for the technology site file are expla
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 | Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: the type of product used as input for each technology can be looked up in the technology database__* |
-<br>
 
+
+<br> 
+
+<p>
 Here is how it would look in a technology site file used in ADAM:
+</p>
+
+
 | # |	Latitude | Longitude | Tech ID | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | ts1 | 41.434208 | -86.876593 | t33 | 10000 |
 | ... | ... | ... | ... | ... |
 
-We can interpert this entry as a **AD-Electricity-SLS (S, cow) technology site**, denoted **ts1**, **located at 41.434208 N, 86.876593 W** with a **capacity of processing 10,000 metric tonnes of cow manure** per time basis. 
-
+<p>
+    We can interpert this entry as a <b>AD-Electricity-SLS (S, cow) technology site</b>, denoted <b>ts1</b>, located at <b>41.434208 N, 86.876593 W</b> with a <b>capacity of processing 10,000 metric tonnes of cow manure</b> per time basis. 
+</p>
 
 <br>
-Now try to interpert this example technology site file on your own: 
+
+<p>
+    Now try to interpert this example technology site file on your own: 
+</p>
+
 
 | # |	Latitude | Longitude | Tech ID | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
@@ -169,23 +197,24 @@ Now try to interpert this example technology site file on your own:
 | ts23 | 39.045753 | -76.641273 | t60 | 150000 |
 | ... | ... | ... | ... | ... |
 
+
 <details> 
-  <summary>Check your answer here.</summary>
-  <br>
-  The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
+  <summary>Click here to check your answer</summary>
+  <p>
+    The technology site node, <b>ts23</b>, is a <b>P Release (raw cow manure) technology</b> located at <b>39.045753 N, 76.641273 W</b> with a <b>capacity of processing 150,000 metric tonnes of cow manure</b> (on a per time basis). 
+  </p>
 </details>
-<br>
-
-
 
 ## Technology Candidate File 
 
-The technology candidate file provides information on the possible technologies that can be installed at a certain location. This information will be used by ADAM in the model solving process to determine which technologies (if any) to build at each location. 
+<p>
+    The technology candidate file provides information on the possible technologies that can be installed at a certain location. This information will be used by ADAM in the model solving process to determine which technologies (if any) to build at each location. 
+</p>
 
-
-<br>
+<p>
 The common headers and their descriptions for the technology candidate file are explained below: 
-<br>
+</p>
+
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
@@ -194,20 +223,27 @@ The common headers and their descriptions for the technology candidate file are 
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 
-<br>
 
+<p>
 Here is how it would look in a technology candidate file used in ADAM:
+</p>
+
 
 | # |	Latitude | Longitude | Tech ID |
 | ------------- | ------------- | ------------- | ------------- |
 | tc1 | 43.61586956 | -95.8516807 | t15 |
 |...| ...| ...| ...|
 
-This entry, **tc1**, is saying that it is **possible** for t15 to be installed at location **43.61586956 N, 95.8516807 W**.
-**Note: a single location can take on many different technology candidates.**
 
-<br>
+<p>
+This entry, <b>tc1</b>, is saying that <b>it is possible for t15 to be installed at location 43.61586956 N, 95.8516807 W.</b><br>
+<b>Note:</b> a single location can take on many different technology candidates.
+</p>
+
+<p>
 Now try to interpret this example technology candidate file on your own: 
+</p>
+
 
 | # |	Latitude | Longitude | Tech ID |
 | ------------- | ------------- | ------------- | ------------- |
@@ -218,12 +254,14 @@ Now try to interpret this example technology candidate file on your own:
 | tc9 | 39.045753 | -76.641273 | t15 |
 |...| ...| ...| ...|
 
+
 <details> 
-  <summary>Check your answer here.</summary>
-  <br>
-  Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for installing technologies <b>t15, t16, and t23</b>. <br>
-  Location <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br>
-  To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
+  <summary>Click here to check your answer</summary>
+  <p>
+    Location <b>43.61586956 N, 95.8516807 W</b> is a candidate for installing technologies <b>t15, t16, and t23</b>. <br>
+    Location <b>39.045753 N, 76.641273 W</b> is a candidate for installing technology <b>t15</b>. <br><br>
+    To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
+  </p>
 </details>
 <br>
 
