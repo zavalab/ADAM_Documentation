@@ -33,4 +33,4 @@ Testing
 </details>
 
 <br> 
-[templates](/templates/README.md)
+[templates](/Templates/README.md)
