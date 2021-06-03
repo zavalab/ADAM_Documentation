@@ -263,7 +263,13 @@ Now try to interpret this example technology candidate file on your own:
     To check the corresponding technologies to the technology IDs, please check the ADAM technology database.<br> 
   </p>
 </details>
+
 <br>
+<br>
+
+[back to homepage](/index.md)
+
+
 
 
 
