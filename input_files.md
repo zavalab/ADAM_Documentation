@@ -5,21 +5,12 @@
 </p>
 
 <p>
-    In this tutorial, we will go through each of the file types, the information it is providing, and how to interpert an entry. 
+    In this tutorial, we will go through each of the file types, the information it is providing, and how to interpert an entry.
 </p>
 
-<!--
-<details> 
-  <summary>Contents</summary>
-  <br>
-    <ol>
-      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#supply-file">Supply File</a></li>
-      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#demand-file">Demand File</a></li>
-      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-site-file">Technology Site File</a></li>
-      <li><a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates#technology-candidate-file">Technology Candidate File</a></li>
-    </ol>  
-</details>
--->
+<p>
+    Templates for each type of file are provided <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Templates">here.</a>
+</p>
 
 ## Supply File 
 
@@ -149,7 +140,7 @@ Now try to interpert this example supply file on your own:
 </p>
 
 <p>
-    Unlike existing technologies, **pseudo technologies** are not physical techology sites and thus do not require installation or operational costs. Instead, **pseudo technologies represent natural processes such as the release of nutrients into the soil**. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
+    Unlike existing technologies, <b>pseudo technologies</b> are not physical techology sites and thus do not require installation or operational costs. Instead, <b>pseudo technologies represent natural processes such as the release of nutrients into the soil</b>. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
 </p>
 
 <br>
@@ -268,14 +259,3 @@ Now try to interpret this example technology candidate file on your own:
 <br>
 
 [back to homepage](/index.md)
-
-
-
-
-
-
-
-
-
-
-
