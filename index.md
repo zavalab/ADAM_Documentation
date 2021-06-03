@@ -10,7 +10,7 @@ By using ADAM, we can effiently make case studies to explore the effects of farm
 
 <br>
 <h2>Contents</h2>
-[Navigating ADAM](/navigation.md)
+<a href="/ADAM_Tutorial/navigation.html">Learn to Navigate ADAM</a>
 <br>
 <a href="/ADAM_Tutorial/input_files.html">Learn about the input files for ADAM</a>
 <br>
