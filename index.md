@@ -10,7 +10,7 @@ By using ADAM, we can effiently make case studies to explore the effects of farm
 
 <br>
 <h2>Contents</h2>
-<a href="/input_files.md">Input Files for ADAM</a>
+[Input Files for ADAM](/input_files.md)
 <br>
 <a href="/glossary.md">Glossary</a>
 
