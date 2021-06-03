@@ -20,17 +20,16 @@
     </ol>  
 </details>
 -->
-<br>
 
 ## Supply File 
 
-The supply file contains data on the location, price, and yield of a product. 
-For most models in ADAM, the supply of product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). 
-<br>
+<p>
+    The supply file contains data on the location, price, and yield of a product. For most models in ADAM, the supply of product is cow manure produced by Concentrated Animal Feeding Operations (CAFOs). 
+</p>
 
-<br>
+<p>
 The common headers and their descriptions for the supply file are explained below: 
-<br>
+</p>
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
@@ -43,18 +42,24 @@ The common headers and their descriptions for the supply file are explained belo
 
 <br>
 
-
-Here is how it would look in a supply file used in ADAM: 
+<p>
+    Here is how it would look in a supply file used in ADAM: 
+</p>
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-Using the given information, we can interpert the entry in the example above as a supply node, denoted as **s1**, located at **43.0731 N, 89.4012 W** which 
-produces **liquid digestate waste product (p5)** at a yield of **500 tonnes per time basis** and at **zero cost** to the supplier.  
+<br>
 
-**Remember:** the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
+<p>
+Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W<b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
+</p>
+
+<p>
+    <b>Remember:</b> the time basis is defined on the first step of creating a model in ADAM. This information cannot be obtained through looking at the data files. 
+</p>
 
 <br>
 Now try to interpert this example supply file on your own: 
@@ -114,24 +119,28 @@ Now try to interpert this example supply file on your own:
 | ...  | ... | ...  | ... | ...  | ... |
 
 <details> 
-  <summary>Check your answer here.</summary>
-  <br>
-  The demand node, <b>d32</b>, is located at <b>38.9072 N, 77.0369 W</b> and demands <b>5,250 metric tonnes of phosphorus</b> (on a per time basis), at a cost of <b>$200 per metric tonne</b>. 
+  <summary>Click here to check your answer</summary>
+    <p>
+        The demand node, <b>d32</b>, is located at <b>38.9072 N, 77.0369 W</b> and demands <b>5,250 metric tonnes of phosphorus</b> (on a per time basis), at a cost of <b>$200 per metric tonne</b>. 
+    <p>
 </details>
 <br>
 
 
 ## Technology Site File 
 
+<p>
 The technology site file contains information on existing and pseudo technologies. These technologies allow for one product to be transformed into another. 
+</p>
 
-<br>
-
+<p>
 Unlike existing technologies, **pseudo technologies** are not physical techology sites and thus do not require installation or operational costs. Instead, **pseudo technologies represent natural processes such as the release of nutrients into the soil**. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
+</p>
 
 <br>
+<p>
 The common headers and their descriptions for the technology site file are explained below: 
-<br>
+</p>
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
