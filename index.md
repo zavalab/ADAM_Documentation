@@ -33,4 +33,4 @@ Testing
 </details>
 
 <br> 
-[templates](/Templates/README.md)
+[templates](https://github.com/mshen42/ADAM_Tutorial/blob/main/Templates/README.md)
