@@ -215,6 +215,7 @@ The common headers and their descriptions for the technology candidate file are 
 | Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 
 
+<br>
 <p>
 Here is how it would look in a technology candidate file used in ADAM:
 </p>
@@ -230,6 +231,8 @@ Here is how it would look in a technology candidate file used in ADAM:
 This entry, <b>tc1</b>, is saying that <b>it is possible for t15 to be installed at location 43.61586956 N, 95.8516807 W.</b><br>
 <b>Note:</b> a single location can take on many different technology candidates.
 </p>
+
+<br>
 
 <p>
 Now try to interpret this example technology candidate file on your own: 
