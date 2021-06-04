@@ -38,4 +38,3 @@
 
 <br>
 <br>
-[back to homepage](/index.md)
