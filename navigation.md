@@ -7,7 +7,7 @@
 <p>
 
 <a href="http://54.208.179.171:8000/">
-<img src="Pictures\homepg.png">
+<img src="Pictures\Navigation\homepg.png">
 </a>
 
 <br>
@@ -20,18 +20,21 @@
 
 <h2> Tutorial </h2>
 
-<p>The tutorial secion of ADAM is where you can learn how to create a model in ADAM through two examples: a biogas from waste model and a custom model.</p>
+<p>The tutorial secion of ADAM is where you can learn how to create a model in ADAM through two examples.</p>
 
-<p>The biogas model is a management-type model meaning 
+<br>
+
+<a href="http://54.208.179.171:8000/tryit"><img src="Pictures\Navigation\tutorialpg.png">
+</a>
+
+<p>The first model in the tutorial uses a pre-made example to demonstrate the functionality of ADAM through a biogas to waste setting.
+</p>
+
+<p>The second model in the tutorial is a more interactive tutorial where you can move and change data points.
 </p>
 
 <br>
-
-<a href="http://54.208.179.171:8000/tryit"><img src="Pictures\tutorialpg.png">
-</a>
-
-<br>
-<p>TODO: Add more info about tutorial</p>
+<p><a href="tutorial.md">More Detail on the Tutorial Page here</a></p>
 <br>
 
 <h2>Dashboard</h2>
@@ -43,3 +46,4 @@
 
 <br>
 <br>
+
