@@ -12,11 +12,10 @@
 
 <p>When you first enter the biogas from waste tutorial, you will be greeted by a menu containing various icons.</p>
 
-<p>You may select any of the icons to jump to a certian part of the tutorial. For first-time users we reccomend selecting the <b>Preliminary - Input Data</b> to go through the tutorial in order.</p>
+<p>You may select any of the icons to jump to a certian part of the tutorial. For first-time users, we reccomend selecting the <b>Preliminary - Input Data</b> to go through the tutorial in order.</p>
 
-<img src="Pictures\biogas_from_waste_ex\overview_1.png">
+<img src="Pictures\biogas_from_waste_ex\overview.png">
 
-<br>
 <br>
 
 <p>The first page of the tutorial gives you information about the input data needed for ADAM</p>
