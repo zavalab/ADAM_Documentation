@@ -10,11 +10,17 @@ By using ADAM, we can efficiently make case studies to explore the effects of fa
 <p><a href="http://54.208.179.171:8000/">Check out ADAM here!</a></p>
 
 <br>
+
 <h2>Contents</h2>
-<a href="/ADAM_Tutorial/navigation.html">Basic Navigation of ADAM</a>
+<a href="/ADAM_Tutorial/navigation.html">Learn to Navigate ADAM</a>
 <br>
-<a href="/ADAM_Tutorial/tutorial.md">ADAM's Tutorial Section</a>
-<br>
+<a href="/ADAM_Tutorial/tutorial.html">ADAM Tutorial Walkthrough</a>
+
+<ul>
+<li><a href="biogas_from_waste.html">Biogas from Waste Example</a></li>
+<li><a href="custom_model.html">Custom Model Example</a></li>
+</ul>
+
 <a href="/ADAM_Tutorial/input_files.html">Learn about the input files for ADAM</a>
 <br>
 <a href="/ADAM_Tutorial/glossary.html">Glossary</a>

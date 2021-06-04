@@ -6,6 +6,6 @@
 </a>
 
 <br>
-<a href="biogas_from_waste_pg1.md">Biogas from Waste Walkthrough</a>
+<a href="biogas_from_waste.html">Biogas from Waste Walkthrough</a>
 
-<a href="custom_model_pg1.md">Custom Model Walkthrough</a>
+<a href="custom_model_pg1.html">Custom Model Walkthrough</a>
