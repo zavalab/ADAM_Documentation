@@ -34,7 +34,7 @@
 </p>
 
 <br>
-<p><a href="tutorial.md">More Detail on the Tutorial Page here</a></p>
+<p><a href="tutorial.html">More Detail on the Tutorial Page here</a></p>
 <br>
 
 <h2>Dashboard</h2>
