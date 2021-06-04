@@ -7,7 +7,7 @@
 <p>
 
 <a href="http://54.208.179.171:8000/">
-<img src="homepg.png">
+<img src="Pictures\homepg.png">
 </a>
 
 <br>
@@ -20,9 +20,14 @@
 
 <h2> Tutorial </h2>
 
-<p>The tutorial secion of ADAM is where you can learn how to create a model in ADAM through two examples.</p>
+<p>The tutorial secion of ADAM is where you can learn how to create a model in ADAM through two examples: a biogas from waste model and a custom model.</p>
 
-<a href="http://54.208.179.171:8000/tryit"><img src="tutorialpg.png">
+<p>The biogas model is a management-type model meaning 
+</p>
+
+<br>
+
+<a href="http://54.208.179.171:8000/tryit"><img src="Pictures\tutorialpg.png">
 </a>
 
 <br>
