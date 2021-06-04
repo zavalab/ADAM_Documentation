@@ -8,8 +8,6 @@
 
 <p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
 
-<img src="Pictures\biogas_from_waste_ex\process_paths.png">
-
 <p>Since we only want to manage sites that already exist, this type of problem can be defined as a management-type model. </p>
 
 
