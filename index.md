@@ -1,7 +1,11 @@
-<h1>Welcome to ADAM Tutorial!</h1>
+<h1>Welcome to ADAM Documentation!</h1>
 <h2>About ADAM</h2>
+
+<img src="Pictures\ADAM_graphic.png">
+
+
 <p>
-    ADAM, which stands for Advanced Decision-Making and Management, is a web-based tool used for analyzing and solving <b>organic waste management (OWM)</b> problems. These OWM problems often involve the interactions bewteen <b>concentrated animal feeding operations (CAFOs)</b>, waste management plants, cropfields, and external customers. ADAM takes these interactions into account in order to determine the most economically-favorable pathways that the waste should take.
+    ADAM, which stands for Advanced Decision-Making and Management, is a web-based tool used for analyzing and solving organic waste management (OWM) problems. These OWM problems often involve the interactions bewteen concentrated animal feeding operations (CAFOs), waste management plants, cropfields, and customers. ADAM takes these interactions into account in order to determine the most economically-favorable pathways that the waste should take.
 </p> 
 
 <p>
@@ -16,10 +20,12 @@ By using ADAM, we can efficiently make case studies to explore the effects of fa
 <br>
 <a href="/ADAM_Tutorial/tutorial.html">ADAM Tutorial Walkthrough</a>
 
+<!--
 <ul>
 <li><a href="biogas_from_waste.html">Biogas from Waste Example</a></li>
 <li><a href="custom_model.html">Custom Model Example</a></li>
 </ul>
+-->
 
 <a href="/ADAM_Tutorial/input_files.html">Learn about the input files for ADAM</a>
 <br>
