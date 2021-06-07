@@ -34,9 +34,7 @@
 </p>
 
 <a href="biogas_from_waste.html">Biogas from Waste Walkthrough</a>
-
 <br>
-
 <a href="custom_model_pg1.html">Custom Model Walkthrough</a>
 
 <br>

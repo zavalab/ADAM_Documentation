@@ -18,7 +18,9 @@
 <h2>Contents</h2>
 <a href="/ADAM_Documentation/navigation.html">Learn to Navigate ADAM</a>
 <br>
-<a href="/ADAM_Documentation/tutorial.html">The Tutorial Page</a>
+<a href="/ADAM_Documentation/biogas_from_waste.html">Tutorial Page: Biogas from Waste Walkthrough</a>
+<br>
+<a href="/ADAM_Documentation/custom_model.html">Tutorial Page: Custom Model Walkthrough</a>
 <br>
 <a href="/ADAM_Documentation/input_files.html">Learn about the input files for ADAM</a>
 <br>
