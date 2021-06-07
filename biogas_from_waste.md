@@ -10,13 +10,10 @@
 
 <p>Since we only want to manage sites that already exist, this type of problem can be defined as a management-type model. </p>
 
-
-
 <br>
 
 <h2>Walkthrough</h2>
 
-<br>
 <h3>Outline</h3>
 
 <p>When you first enter the biogas from waste tutorial, you will be greeted by a menu containing various icons.</p>

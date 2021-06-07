@@ -33,12 +33,10 @@
 <p>The second model in the tutorial demonstrates the steps of creating a custom model in ADAM. This tutorial is much more interactive. 
 </p>
 
-<br>
-
 <p>For first-time users, we reccomend going throuh the biogas to waste model first and then going though the custom model. Follow the links below for an explanation and walkthrough of each step of the tutorial. 
 </p>
 <a href="biogas_from_waste.html">Biogas from Waste Walkthrough</a>
-
+<br>
 <a href="custom_model_pg1.html">Custom Model Walkthrough</a>
 <br>
 
