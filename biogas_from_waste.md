@@ -16,9 +16,11 @@
 
 <h3>Outline</h3>
 
-<p>When you first enter the biogas from waste tutorial, you will be greeted by a menu containing various icons.</p>
+<p>In order to navigate to the biogas from waste example, click the <b>Tutorial</b> on the top right and select the <b>Biogas from Waste</b> option. The first screen you encounter is the <b>Example Outline Page</b>. This page provides an overview of the steps we will go over during the tutorial. 
+</p>
 
-<p>You may select any of the icons to jump to a certian part of the tutorial. For first-time users, we reccomend selecting the <b>Preliminary - Input Data</b> to go through the tutorial in order.</p>
+<p>You may select any of the icons to jump to that part of the tutorial. For first-time users, we reccomend selecting the <b>Preliminary - Input Data</b> step.
+</p>
 
 <img src="Pictures\biogas_from_waste_ex\overview.png">
 
