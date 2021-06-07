@@ -6,9 +6,7 @@
     As soon as you navigate to ADAM, you are greeted with the homepage which consists of an interactive map. The interactive map shows the locations of large dairy farms, large beef farms, wastewater plans, and biogas facilities for selected states.
 <p>
 
-<a href="http://54.208.179.171:8000/">
 <img src="Pictures\Navigation\homepg.png">
-</a>
 
 <br>
 
@@ -24,8 +22,7 @@
 
 <br>
 
-<a href="http://54.208.179.171:8000/tryit"><img src="Pictures\Navigation\tutorialpg.png">
-</a>
+<img src="Pictures\Navigation\tutorialpg.png">
 
 <p>The first model in the tutorial uses a pre-made example to demonstrate the functionality of ADAM through a biogas to waste setting.
 </p>
@@ -35,9 +32,13 @@
 
 <p>For first-time users, we reccomend going throuh the biogas to waste model first and then going though the custom model. Follow the links below for an explanation and walkthrough of each step of the tutorial. 
 </p>
+
 <a href="biogas_from_waste.html">Biogas from Waste Walkthrough</a>
+
 <br>
+
 <a href="custom_model_pg1.html">Custom Model Walkthrough</a>
+
 <br>
 
 <h2>Dashboard</h2>
