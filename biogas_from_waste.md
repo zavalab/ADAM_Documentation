@@ -8,7 +8,7 @@
 
 <p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
 
-<p>Since we only want to manage sites that already exist, this type of problem can be defined as a management-type model. </p>
+<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a management-type model. </p>
 
 <br>
 
@@ -28,10 +28,36 @@
 
 <h3>Preliminary - Input Data</h3> 
 
-<p>The first page of the tutorial gives you information about the input data needed for ADAM. </p>
+<p>The first page of the tutorial gives you information about the input data needed for ADAM. This input data consists of supply data, demand data, technology data, and transportation data.</p>
 
 <img src="Pictures\biogas_from_waste_ex\prelim.png">
+
+<h4>The Supplier Data</h4>
+
+<p>In the case of biogas to waste, the suppliers are CAFOs which produce cattle manure. The supplier data includes several pieces of information about each CAFO: their location, the amount of manure produced (capacity), and the cost of the waste to the supplier. 
+</p>
 
 
 <br>
 <h3>Step 1</h3> 
+
+<br>
+
+<h3>Step 2</h3>
+
+<br>
+
+<h3>Step 3</h3>
+<br>
+
+<h3>Step 4</h3>
+<br>
+
+<h3>Step 5</h3>
+<br>
+
+<h3>Step 6</h3>
+
+<br>
+
+<h3>Output Data</h3>
