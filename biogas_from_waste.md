@@ -32,7 +32,7 @@
 
 <img src="Pictures\biogas_from_waste_ex\prelim.png">
 
-<h4>The Supplier Data</h4>
+<h5>The Supplier Data</h5>
 
 <p>In the case of biogas to waste, the suppliers are CAFOs which produce cattle manure. The supplier data includes several pieces of information about each CAFO: their location, the amount of manure produced (capacity), and the cost of the waste to the supplier. 
 </p>
