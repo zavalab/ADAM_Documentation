@@ -5,11 +5,11 @@
 
 
 <p>
-    ADAM, which stands for Advanced Decision-Making and Management, is a web-based tool used for analyzing and solving organic waste management (OWM) problems. These OWM problems often involve the interactions bewteen concentrated animal feeding operations (CAFOs), waste management plants, cropfields, and customers. ADAM takes these interactions into account in order to determine the most economically-favorable pathways that the waste should take.
+    Advanced Decision-Making and Management (ADAM) is a web-based tool used for analyzing organic waste management (OWM) problems. These OWM problems involves the interactions between concentrated animal feeding operations (CAFOs), waste management plants, cropfields, customers, etc. ADAM takes these interactions into account to determine the most economically-favorable product pathways and which technologies, if any, to install at certian sites.  
 </p> 
 
 <p>
-By using ADAM, we can efficiently make case studies to explore the effects of farm concentration, product price changes, government incentives, etc. These case studies can then be used as a teaching tool to learn about a systems approach to waste managment, or can be used to futher research. 
+    By using ADAM, we can efficiently make case studies to explore the effects of farm concentration, product price changes, government incentives, etc. These case studies can then be used as a teaching tool to learn about a systems approach to waste managment, or can be used to futher research. 
 </p>
 <p><a href="http://54.208.179.171:8000/">Check out ADAM here!</a></p>
 
@@ -18,15 +18,8 @@ By using ADAM, we can efficiently make case studies to explore the effects of fa
 <h2>Contents</h2>
 <a href="/ADAM_Tutorial/navigation.html">Learn to Navigate ADAM</a>
 <br>
-<a href="/ADAM_Tutorial/tutorial.html">ADAM Tutorial Walkthrough</a>
-
-<!--
-<ul>
-<li><a href="biogas_from_waste.html">Biogas from Waste Example</a></li>
-<li><a href="custom_model.html">Custom Model Example</a></li>
-</ul>
--->
-
+<a href="/ADAM_Tutorial/tutorial.html">The Tutorial Page</a>
+<br>
 <a href="/ADAM_Tutorial/input_files.html">Learn about the input files for ADAM</a>
 <br>
 <a href="/ADAM_Tutorial/glossary.html">Glossary</a>

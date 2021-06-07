@@ -5,6 +5,9 @@
 <a href="http://54.208.179.171:8000/tryit"><img src="Pictures\Navigation\tutorialpg.png">
 </a>
 
+<p> On this page there are two examples, a biogas from waste example and a custom model example. 
+</p>
+
 <br>
 <a href="biogas_from_waste.html">Biogas from Waste Walkthrough</a>
 
