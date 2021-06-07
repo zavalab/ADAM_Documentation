@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    Templates for each type of file are provided <a href="https://github.com/mshen42/ADAM_Tutorial/tree/main/Downloadable_content/Templates">here.</a>
+    Templates for each type of file are provided <a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Templates">here.</a>
 </p>
 
 

@@ -16,13 +16,13 @@
 <br>
 
 <h2>Contents</h2>
-<a href="/ADAM_Tutorial/navigation.html">Learn to Navigate ADAM</a>
+<a href="/ADAM_Documentation/navigation.html">Learn to Navigate ADAM</a>
 <br>
-<a href="/ADAM_Tutorial/tutorial.html">The Tutorial Page</a>
+<a href="/ADAM_Documentation/tutorial.html">The Tutorial Page</a>
 <br>
-<a href="/ADAM_Tutorial/input_files.html">Learn about the input files for ADAM</a>
+<a href="/ADAM_Documentation/input_files.html">Learn about the input files for ADAM</a>
 <br>
-<a href="/ADAM_Tutorial/glossary.html">Glossary</a>
+<a href="/ADAM_Documentation/glossary.html">Glossary</a>
 
 
 
