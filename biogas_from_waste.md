@@ -54,6 +54,18 @@
 
 <br>
 
+<h3>Preliminary - Output Data</h3>
+
+<img src = "Pictures\biogas_from_waste_ex\prelim_output.png">
+
+<p>After we give ADAM all of the input data, ADAM will generate output data which includes information about the flow, transporation, and value data. 
+</p>
+
+<p>The flow data shows the amount of product transported along each pathway (e.g. 10,000 tonnes/year), the transportation data shows the transportation cost of moving the product from one place to another, and the value data shows the value of the products at different locations. 
+</p>
+
+<br>
+
 <h3>Step 1 - Model Type</h3> 
 
 <img src="Pictures\biogas_from_waste_ex\step1.png">
@@ -89,12 +101,12 @@
 
 <br>
 
-<h3>Step 3</h3>
+<h3>Step 3 - Technology Data</h3>
 
 <img src="Pictures\biogas_from_waste_ex\step3.png">
 
 <p>
-    In step 3, we define the location, capacity, technology type, and operating cost for each technology node. In this example, we have two technology nodes which are shown on the map as the blue markers.
+    In step 3, we define the technology nodes. In this example, we have two technology nodes which are shown on the map as the blue markers.
 </p>
 
 <p>
@@ -115,17 +127,64 @@
 
 <br>
 
-<h3>Step 4</h3>
+<h3>Step 4 - Consumer Data</h3>
 
 <img src="Pictures\biogas_from_waste_ex\step4.png">
 
+<p>In step 4, we define the consumer (demand) data. In this example we have three demand data nodes indicated on the map as green markers. Note that the topmost node is both a supply and a demand node, indicated by a half-green and half-yellow marker. This is not exclusive to just supply and demand. A single node can act as a supply, demand, and technology node or any combination of the three. 
+</p>
+
+<p>Double-clicking on the demand node will open more detailed information about that node.
+</p>
+
+<img src="Pictures\biogas_from_waste_ex\dem_info.png">
+
+<p>
+    This consumer demands two different products: digestate and waste. Digestate is the waste product of the technology after it processes waste into biogas. The consumer demands 115,000 tonnes per year of both digestate and waste. They purchase the digestate at a price of $5 USD per tonne, and they get the waste at no cost. The consumer is able to get the waste at zero cost because the supplier loses money by producing waste so the supplier would like to get rid of the waste while sustaining as little losses as possible.  
+</p>
+
+<p>This consumer only wants the waste products, meaning that this consumer is likely a crop field which demands the nutirents from the manure. 
+</p>
+
 <br>
 
-<h3>Step 5</h3>
+<h3>Step 5 - Transport Data</h3>
+
+<img src="Pictures\biogas_from_waste_ex\step5.png">
+
+<p>
+    After defining all of the supply, demand, and technology nodes, we can now define transportation data. The graph on the left shows all possible transportation routes for waste and the graph on the right shows all transportation routes for every other product. 
+</p>
+
+<p>
+    Hovering over the route until the white information box appears, then clicking on the route will display additional information. 
+</p>
+
+<img src="Pictures\biogas_from_waste_ex\trans_info.png">
+
+<p>
+    This route is between the markers labeled CAFO2 and Technology2. The distance between the markers is 6.49 km, the product being transported is waste, and the waste is being transported at a cost of 3 USD per tonne per km. The box in the lower right corner shows that the "true" distance (i.e. the distance it would take to drive from one point to another using roads) is 8.56 km. It also gives a time estimate based on an average car's speed. 
+</p>
+
 <br>
 
 <h3>Step 6</h3>
 
+<img src = "Pictures\biogas_from_waste_ex\step6.png">
+
+<p>
+    The final step is running the model using ADAM to find the optimal routes that each of the products should take. Hovering over and clicking on the routes will show the amount of product flow and the transportation cost that will allow each member of the system to have maximum benefits. 
+</p>
+
+<p>
+    In this case, it appears that it is most favorable for each of the supply nodes to send a portion of their waste to be processed at a technology site. One of the technology sites produces digestate and biogas, and the other produces digestate and electricity. Consumer1 buys the biogas, Consumer2 buys the digestate, and Consumer3 buys the electricity. 
+</p>
+
+<img src="Pictures\biogas_from_waste_ex\run_info.png">
+
+<p>
+    Looking at the same pathway as before, there is now information about the amount of waste transported (product flow). In this case, waste is being transported across this pathway at a rate of 20,294.12 tonnes/year with a transportation cost of $395,126.52. 
+</p>
+
 <br>
 
-<h3>Output Data</h3>
