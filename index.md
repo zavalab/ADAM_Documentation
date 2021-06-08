@@ -21,13 +21,11 @@
 <a href="/ADAM_Documentation/navigation.html">Learn to Navigate ADAM</a>
 <br>
 <a href="/ADAM_Documentation/input_files.html">Learn about the input files for ADAM</a>
-<br>
 
 <h3>The Tutorial page</h3>
 <a href="/ADAM_Documentation/biogas_from_waste.html">Biogas from Waste Example Walkthrough</a>
 <br>
 <a href="/ADAM_Documentation/custom_model.html">Custom Model Example Walkthrough</a>
-<br>
 
 <h3>Other</h3>
 <a href="/ADAM_Documentation/glossary.html">Glossary</a>
