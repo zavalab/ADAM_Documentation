@@ -29,7 +29,7 @@ The common headers and their descriptions for the supply file are explained belo
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this can be looked up in the ADAM product database.__* |
-| Price | The price of the product in USD per product unit (e.g. USD per tonnes). <br> ***note: check the ADAM product database for product units.***  |
+| Price | The amount of money that the supplier gains or spends in order to supply a product in USD per product unit (e.g. USD per tonnes). A negative price indicates that the supplier loses money by producing that product. A positive price indicates that the supplier gains money by producing that product. <br> ***note: check the ADAM product database for product units.***  |
 | Capacity | The amount of product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
 <br>
@@ -89,7 +89,7 @@ Now try to interpert this example supply file on your own:
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Product ID | The product identification code that corresponds to the product demanded by the node. <br>*__note: this can be looked up in the ADAM product database.__* |
-| Price | The market price of the product per product unit (i.e. the price at which the node is purchasing the product). <br> ***note: check the ADAM product database for product units.***  |
+| Price | The market price of the product per product unit (i.e. the price at which the consumer is purchasing the product). <br> ***note: check the ADAM product database for product units.***  |
 | Capacity | The **maximum** amount of product that the node can demand on a per time basis (e.g. 1000 tonnes per year). The actual amount of product that the demand node receives may be less than or equal to this number. <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
 
