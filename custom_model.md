@@ -37,7 +37,7 @@
 
 <h3>Step 2 - Supply Data</h3> 
 
-<video width="1600" autoplay muted>
+<video width="840" autoplay muted>
   <source src="Pictures\custom_model\supply_drag_points.mp4">
 Your browser does not support the video tag.
 </video>
