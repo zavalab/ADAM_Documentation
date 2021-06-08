@@ -37,8 +37,13 @@
 
 <h3>Step 2 - Supply Data</h3> 
 
-<video width="840" autoplay muted>
-  <source src="Pictures\custom_model\supply_drag_points.mp4">
+<p>
+    Click and drag points 
+</p>
+
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\supply_drag.mp4">
 Your browser does not support the video tag.
 </video>
 
