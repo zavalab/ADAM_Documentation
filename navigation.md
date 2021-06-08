@@ -47,6 +47,19 @@
 
 <img src="Pictures\Navigation\dashboardpg.png">
 <p>TODO: Add info about dashboard and all components</p> 
+
+<!-- 
+    Tutorials Need to Make: 
+
+    How to create an account 
+    Using published case studies to make a model 
+    Making your own model from scratch 
+    Using the visualization tool
+    Using the technology database 
+    Using the product database 
+-->
+
+
 <br> 
 
 <h2>Contact</h2>
