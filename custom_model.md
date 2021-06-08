@@ -57,16 +57,43 @@ Your browser does not support the video.
 
 <br>
 
-<h3>Step 3</h3> 
+<h3>Step 3 - Technology Data</h3> 
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\tech_drag.mp4">
+Your browser does not support the video.
+</video>
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\tech_edit.mp4">
+Your browser does not support the video.
+</video>
 
 <br>
 
-<h3>Step 4</h3> 
+<h3>Step 4 - Comsumer Data</h3> 
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\demand_drag.mp4">
+Your browser does not support the video.
+</video>
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\demand_edit.mp4">
+Your browser does not support the video.
+</video>
 
 <br>
 
-<h3>Step 5</h3> 
+<h3>Step 5 - Transportation Data</h3> 
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\transport_view.mp4">
+Your browser does not support the video.
+</video>
 
 <br>
 
-<h3>Step 6</h3> 
+<h3>Step 6 - Run Model</h3> 
+
+<img src="Pictures\custom_model\results.png">
