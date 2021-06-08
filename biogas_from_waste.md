@@ -8,7 +8,7 @@
 
 <p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
 
-<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a management-type model. </p>
+<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a <b>management-type model</b>. </p>
 
 <br>
 
@@ -96,8 +96,7 @@
     Here we see that this supply node is located at a longitude and latitude of 43.1263, -89.5514. It produces waste at a capacity of 65,000 tonnes per year (the "per year" was defined in step 1) at a cost of $5 USD per tonne of waste produced. 
 </p>
 
-<p>A negative price indicates that the supplier is losing money by supplying waste. 
-</p>
+<p><b>A negative price indicates that it costs money for the supplier to supply waste</b>.</p>
 
 <br>
 
