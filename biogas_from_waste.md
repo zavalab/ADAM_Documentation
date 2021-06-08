@@ -70,12 +70,55 @@
 
 <img src="Pictures\biogas_from_waste_ex\step2.png">
 
+<p>
+    After defining the model type and time basis, we can now add supplier data. In this example, there are three suppliers (CAFOs) which are indicated by the yellow markers on the map.
+</p>
+
+<p>
+    By double-clicking on any of the markers, you can get more detailed information about each node. An example of the detailed information is shown below. 
+</p>
+
+<img src="Pictures\biogas_from_waste_ex\sup_info.png">
+
+<p>
+    Here we see that this supply node is located at a longitude and latitude of 43.1263, -89.5514. It produces waste at a capacity of 65,000 tonnes per year (the "per year" was defined in step 1) at a cost of $5 USD per tonne of waste produced. 
+</p>
+
+<p>A negative price indicates that the supplier is losing money by supplying waste. 
+</p>
+
 <br>
 
 <h3>Step 3</h3>
+
+<img src="Pictures\biogas_from_waste_ex\step3.png">
+
+<p>
+    In step 3, we define the location, capacity, technology type, and operating cost for each technology node. In this example, we have two technology nodes which are shown on the map as the blue markers.
+</p>
+
+<p>
+    Similar to the supply nodes, double-clicking on the technology nodes will give you more information about that node. An example of the detailed information is shown below. 
+</p> 
+
+<br>
+
+<img src="Pictures\biogas_from_waste_ex\tech_info.png">
+
+<p>
+    From this detailed information, we can determine that this is an anaerobic digestion type technology located at a longitude and latitude of 43.1729, -89.5036. It is able to process up to 60,000 tonnes of waste per year (again the "per year" was defined in step 1) at a cost of $6 USD per tonne of waste processed.
+</p>
+
+<p>
+    The diagram below the detailed information shows the inputs and outputs of the technology. For every 1 tonne of waste, the anaerobic digestion technology produces 1500 cubic ft of biogas and 0.95 tonnes of digestate. 
+</p>
+
 <br>
 
 <h3>Step 4</h3>
+
+<img src="Pictures\biogas_from_waste_ex\step4.png">
+
 <br>
 
 <h3>Step 5</h3>
