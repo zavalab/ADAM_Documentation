@@ -38,13 +38,21 @@
 <h3>Step 2 - Supply Data</h3> 
 
 <p>
-    Click and drag points 
+    Click and drag points.  
 </p>
-
 
 <video width="840" controls>
   <source src="Pictures\custom_model\supply_drag.mp4">
-Your browser does not support the video tag.
+Your browser does not support the video.
+</video>
+
+<p>
+    Edit the capacity and price of the points. 
+</p>
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\supply_edit.mp4">
+Your browser does not support the video.
 </video>
 
 <br>
