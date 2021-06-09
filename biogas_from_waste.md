@@ -2,13 +2,14 @@
 
 <h2>Background Information</h2> 
 
-<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by technology sites. These technology sites use anaerobic digestion to produce biogas. This biogas is then purchased by customers.</p>
+<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by technology sites. These technology sites use anaerobic digestion to produce biogas. This biogas is then purchased by customers or used by the technology site locally.</p>
 
 <img src="Pictures\biogas_from_waste_ex\process.png">
 
 <p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
 
-<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a <b>management-type model</b>. </p>
+<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a <b>management-type model</b>.
+</p>
 
 <br>
 
@@ -68,7 +69,7 @@
 
 <img src="Pictures\biogas_from_waste_ex\step1.png">
 
-<p>Now that we have gone over the input data for this example, we can now select the model-type and time-basis. As stated before, since we are only focusing on managing existing technologies, we select a management type model rather than a design-type model (the custom model demonstrates the design type-model).
+<p>Now that we have gone over the input and output data for this example, we can now select the model-type and time-basis. As stated before, since we are only focusing on managing existing technologies, we select a management type model rather than a design-type model (the custom model demonstrates the design type-model).
 </p>
 
 <p>The time basis is set to <b>Year</b>. When defining the capacities, make sure the units are consistent with the time basis selected. 
