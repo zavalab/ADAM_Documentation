@@ -37,7 +37,7 @@
 
 <h5>The Consumer Data</h5>
 
-<p>The consumers are any person or organization that purchases a valuable products. Similar to the supplier data, the consumer data includes the following information about each consumer: their location, the maximum amount of product they can purchase (capacity), and the unit price at which they are buying the product. In this case, the only product of value is the biogas produced by the technology sites. 
+<p>The consumers are any person or organization that purchases a valuable product. Similar to the supplier data, the consumer data includes the following information about each consumer: their location, the maximum amount of product they can purchase (capacity), and the unit price at which they are buying the product. In this case, the only product of value is the biogas produced by the technology sites. 
 </p>
 
 <h5>The Technology Data</h5>
