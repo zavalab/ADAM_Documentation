@@ -31,5 +31,47 @@
 </p>
 
 
-<h2>Case 1: Low Electricity Price</h2>
+<h2>Low Electricity Price</h2>
+
+<p>
+    In the low electricity price scenario, all CAFOs decide to dispose of all cow manure rather than processing it into bio-electricity. This is shown on the map through the black lines going from each CAFO to the disposal node. 
+</p>
+
+<img src="Pictures\waste_to_energy\low_elec.png">
+
+<p>
+    This indicates that the price of bio-electricity is so low that the CAFOs would rather dipose of the waste rather than process it. If you were to double-click on the CAFOs, you would find that the price of the supplying the manure is negative for each CAFO, which indicates that each CAFO is losing money by supplying waste. Additionally, the disposal facility is purchasing the manure at zero cost. This means that the CAFOs will suffer a smaller loss if they simply disposed of the waste than attempted to process it. 
+</p>
+
+<h2>Market Electricity Price</h2>
+
+<p>
+    The next case we will look at is the market price scenario. Market price indicates that the electricity price is set such that it reflects the actual electricity price.
+</p>
+
+<p>
+    The results, which are displayed below, shows identical results to the Low Electricity Price scenario. This demonstrates that current electricity prices are still not high enough to incentivize CAFOs to process their waste. 
+</p>
+
+<img src="Pictures\waste_to_energy\market_elec.png">
+
+<h2>High Electricity Price</h2>
+
+<p>
+    The final case we will look at is the high electricity price scneario. The results, which are displayed in the map below, show that two out of the three CAFOs are now willing to process at least part of their waste. You may hover over the transportation routes to see how much of each product is being transported. 
+</p>
+
+<img src="Pictures\waste_to_energy\high_elec.png">
+
+<p>
+    CAFO1 continues to send all their waste to the disposal facility and does not process any waste, CAFO2 sends 9,600 tonnes of manure per year to Tech1 for processing, and CAFO3 sends all of the manure (15,000 tonnes) to Tech2 for processing. 
+</p>
+
+<p>
+    Using the cow manure, Tech1 is able to generate 300,000 kWh of bioelectricity per year, and Tech2 is able to generate 467,600 kWh of bioelectricity per year. The disgestate waste product is sent to a waste disposal facility.
+</p>
+
+<p>
+    Since we do not know the exact price of the bio-electricity, we cannot determine whether or not the system is profitable. We can only determine that this situation is one where losses are minimized. 
+</p>
 
