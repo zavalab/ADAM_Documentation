@@ -7,8 +7,12 @@
 </p>
 
 <p>
-    The Nutrient Pollution Control case study attempts to reduce nutrient run off (and thus reducing HAB growth) by encouraging farms to apply their waste onto crop fields which demand nutrients. 
+    The Nutrient Pollution Control case study attempts to reduce nutrient run off by redirecting the nutrients to support crop growth rather than HABs. This is done by changing the price of the phosphorus product. As the price of phosphorus increases, the CAFOs will be more inclined to process their waste and 
 </p>
 
 <img src="Pictures\nutrient_pol\map.png">
+
+
+<h2>0 USD/kg P</h2>
+
 
