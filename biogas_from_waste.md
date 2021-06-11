@@ -25,7 +25,7 @@
 
 <br>
 
-<h3>Preliminary - Input Data</h3> 
+<h3>Input Data</h3> 
 
 <p>The first page of the tutorial gives you information about the input data needed for ADAM. This input data consists of supply data, demand data, technology data, and transportation data.</p>
 
@@ -49,18 +49,6 @@
 <h5>The Transportation Data</h5>
 
 <p>The transportation data includes information on the transportation costs of each product based on distance traveled. 
-</p>
-
-<br>
-
-<h3>Preliminary - Output Data</h3>
-
-<img src = "Pictures\biogas_from_waste_ex\prelim_output.png">
-
-<p>After we give ADAM all of the input data, ADAM will generate output data which includes information about the flow, transporation, and value data. 
-</p>
-
-<p>The flow data shows the amount of product transported along each pathway (e.g. 10,000 tonnes/year), the transportation data shows the transportation cost of moving the product from one place to another, and the value data shows the value of the products at different locations. 
 </p>
 
 <br>
@@ -182,6 +170,18 @@
 
 <p>
     Looking at the same pathway as before, there is now information about the amount of waste transported (product flow). In this case, waste is being transported across this pathway at a rate of 20,294.12 tonnes/year with a transportation cost of $395,126.52. 
+</p>
+
+<br>
+
+<h3>Output Data</h3>
+
+<img src = "Pictures\biogas_from_waste_ex\prelim_output.png">
+
+<p>After we give ADAM all of the input data, ADAM will generate output data which includes information about the flow, transporation, and value data. 
+</p>
+
+<p>The flow data shows the amount of product transported along each pathway (e.g. 10,000 tonnes/year), the transportation data shows the transportation cost of moving the product from one place to another, and the value data shows the value of the products at different locations. 
 </p>
 
 <br>

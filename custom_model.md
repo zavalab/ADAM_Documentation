@@ -37,13 +37,6 @@
 
 <br>
 
-<a href="/ADAM_Documentation/biogas_from_waste.html">See Biogas from Waste Example Here</a>
-<br>
-<a href="/ADAM_Documentation/input_files.html">More information on the input files</a>
-
-
-<br>
-
 <h3>Preliminary - Output Data</h3> 
 
 <img src="Pictures\custom_model\output_dat.png">
