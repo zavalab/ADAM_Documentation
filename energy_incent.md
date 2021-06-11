@@ -39,7 +39,11 @@
 <h2>Case 3: $0.14 USD/kWh</h2>
 
 <p>
-For case 3, the energy incentive is raised to $0.14 USD/kWh, resulting in a few more farms installing technologies. 
+For case 3, the energy incentive is raised to $0.14 USD/kWh, resulting in a few more farms installing technologies. The surrounding CAFOs can then send their waste to the nearby technology site without having to build their own technology site. 
 </p>
 
 <img src="Pictures\energy_incent\case_3.png">
+
+<p>
+    As a result, more waste is being processed into energy. 
+</p>

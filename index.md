@@ -18,8 +18,6 @@
 <h2>Contents</h2>
 
 <h3>ADAM Basics</h3>
-<a href="/ADAM_Documentation/navigation.html">Learn to Navigate ADAM</a>
-<br>
 <a href="/ADAM_Documentation/input_files.html">Learn about the input files for ADAM</a>
 
 <h3>The Tutorial page</h3>
