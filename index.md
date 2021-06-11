@@ -27,8 +27,12 @@
 <br>
 <a href="/ADAM_Documentation/custom_model.html">Custom Model Example Walkthrough</a>
 
-<h3>Case Studies</h3>
+<h3>Case Study Documentation</h3>
 <a href="/ADAM_Documentation/waste_to_energy.html">Waste to Energy Documentation</a>
+<br>
+<a href="/ADAM_Documentation/nutrient_pol.html">Nutrient Pollution Control</a>
+<br>
+<a href="/ADAM_Documentation/energy_incent.html">Energy Incentives</a>
 
 <h3>Other</h3>
 <a href="/ADAM_Documentation/glossary.html">Glossary</a>

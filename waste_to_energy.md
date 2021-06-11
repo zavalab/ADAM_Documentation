@@ -75,3 +75,9 @@
     Since we do not know the exact price of the bio-electricity, we cannot determine whether or not the system is profitable. We can only determine that this situation is one where losses are minimized. 
 </p>
 
+<h2>Conclusion</h2>
+
+<p>
+    Low and current market price is not enough incentive for CAFOs to process their waste into energy. It is only when high prices are applied to bio-electricity that CAFOs will begin to process part of their waste into bio-electricity. 
+</p>
+
