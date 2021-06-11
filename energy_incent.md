@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    We are assuming that the CAFO locally consumes the electricity and locally applies the manure products to the croplands. The energy incentives refer to the price increase of electricity. In other words, zero incentives means that the electricity is being offered at market price, $0.08 incentives means that the electricity is being offered at $0.08 higher than market price, and $0.14 incentives means that the electricity is being offered at $0.14 above market price. 
+    We are assuming that the CAFO locally consumes the electricity and locally applies the manure products to the croplands. The energy incentives refer to the price increase of electricity. In other words, zero incentives means that the electricity is being offered at market price, $0.04 incentives means that the electricity is being offered at $0.04 higher than market price, and $0.10 incentives means that the electricity is being offered at $0.10 above market price. 
 </p>
 
 <img src="Pictures\energy_incent\map.png">
@@ -24,10 +24,10 @@
 
 <img src="Pictures\energy_incent\case_1.png">
 
-<h2>Case 2: $0.08 USD/kWh</h2>
+<h2>Case 2: $0.04 USD/kWh</h2>
 
 <p>
-    For case 2, the energy incentive is set to $0.08 USD/kWh. By increasing the price of electricity, CAFOs are encouraged to install technologies so that they can process waste into electricty instead of continuing to purchase electricity from an outside source. As a result, some of the CAFOs decided that installing the technology was worth it. Surrounding farms were then able to send their waste to the sites that installed technologies. 
+    For case 2, the energy incentive is set to $0.04 USD/kWh. By increasing the price of electricity, CAFOs are encouraged to install technologies so that they can process waste into electricty instead of continuing to purchase electricity from an outside source. As a result, some of the CAFOs decided that installing the technology was worth it. Surrounding farms were then able to send their waste to the sites that installed technologies. 
 </p>
 
 <img src="Pictures\energy_incent\case_2.png">
@@ -36,14 +36,10 @@
     Since the energy incentives are fairly low, most farms felt that the cost of installing and operating the technologies outweighed the amount of money saved by processing the waste into bio-electricity. At $0.08 USD/kWh, there are very little technologies installed and very little waste processed. 
 </p>
 
-<h2>Case 3: $0.14 USD/kWh</h2>
+<h2>Case 3: $0.10 USD/kWh</h2>
 
 <p>
-For case 3, the energy incentive is raised to $0.14 USD/kWh, resulting in a few more farms installing technologies. The surrounding CAFOs can then send their waste to the nearby technology site without having to build their own technology site. 
+For case 3, the energy incentive is raised to $0.10 USD/kWh, resulting in a few more farms installing technologies. The surrounding CAFOs can then send their waste to the nearby technology site without having to build their own technology site. As a result, more waste is being processed. 
 </p>
 
 <img src="Pictures\energy_incent\case_3.png">
-
-<p>
-    As a result, more waste is being processed into energy. 
-</p>
