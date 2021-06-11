@@ -1,9 +1,18 @@
-<h1>Dashboard</h1>
+<h1>Dashboard Tutorial</h1>
+
+<h2>Welcome to the Dashboard Tutorial!</h2>
+
+<p>
+    This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the tutorials in order and following along as you go through each one. 
+</p>
 
 
 <h2>Contents</h2>
 
 <a href="/ADAM_Documentation/dashboard_case_study.md">Using a published case study to make a model</a>
+
+
+
 
 
 <!-- 
