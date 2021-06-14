@@ -9,7 +9,7 @@
 
 <h2>Contents</h2>
 
-<a href="/ADAM_Documentation/dashboard_case_study.md">Using a published case study to make a model</a>
+<a href="/ADAM_Documentation/dashboard_case_study.html">Using a published case study to make a model</a>
 
 
 
