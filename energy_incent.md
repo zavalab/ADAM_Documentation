@@ -3,11 +3,15 @@
 <h2>Background</h2>
 
 <p>
-    In the energy incentive case study, we have a system of CAFOs which are simultaneously a supply node, demand node, and a technology candidate. These CAFOs supply cow manure, demand bio-electricity along with manure derivatives, and are technology candidates for Anaerobic Digestion and Electricity generation technology. 
+    In the energy incentive case study, we have a system of CAFOs. Each CAFO is simultaneously a supply node, demand node, and a technology candidate. These CAFOs are suppliers of cow manure, demanders for bio-electricity along with manure derivatives, and are technology candidates for Anaerobic Digestion and Electricity generation technology.
 </p>
 
 <p>
-    We are assuming that the CAFO locally consumes the electricity and locally applies the manure products to the croplands. The energy incentives refer to the price increase of electricity. In other words, zero incentives means that the electricity is being offered at market price, $0.04 incentives means that the electricity is being offered at $0.04 higher than market price, and $0.10 incentives means that the electricity is being offered at $0.10 above market price. 
+    The goal of this model is to encourage farms to recover a valuable resouce (energy) from an existing waste product. Doing this is much more sustainable than simply purchasing electricity from another source. 
+ </p>
+
+<p>
+    The energy incentives refer to the price increase of electricity. In other words, zero incentives means that the electricity is being offered at market price, $0.04 incentives means that the electricity is being offered at $0.04 higher than market price, and $0.10 incentives means that the electricity is being offered at $0.10 above market price. 
 </p>
 
 <img src="Pictures\energy_incent\map.png">
@@ -43,3 +47,18 @@ For case 3, the energy incentive is raised to $0.10 USD/kWh, resulting in a few 
 </p>
 
 <img src="Pictures\energy_incent\case_3.png">
+
+
+<h2>Conclusion</h2>
+
+<p>
+    The waste generated from CAFOs has the potential to be converted into a useful product: bio-electricity; this will result in a much more sustainable pathway than simply disposing of the waste product. However, installing and operating the technologies for converting waste to energy are expensive. Thus, energy incentives of 0, 0.04, 0.10 USD are applied. 
+</p>
+
+<p>
+    At market price ($0 USD incentives), no technologies were installed and all waste was applied to croplands. At $0.04 USD incentive, at least two farms installed technologies and the surrounding farms were able to send their waste to the technology sites for processing. At $0.10 energy incentives, several more CAFOs installed technologies, and as a result much more manure was able to be processed. 
+</p>
+
+<p>
+    As the price of electricity increases, CAFOs become more willing to install technologies to process their waste into bioelectricity. 
+</p>
