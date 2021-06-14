@@ -40,14 +40,18 @@
 
 
 <p>
-    Navigate to the model list (click <b>Manage Models</b>) to see the copy of the case study. 
+    Navigate to the model list (click <b>Manage Models</b> on the dashboard homepage) to see the copy of the case study. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\model_list.png">
+<img src="Pictures\Dashboard_tutorials\Case_studies\manage_models.png">
 
 <p>
     Once you have created a copy of the model, you can make changes to the case study or run it as is. In the next section of the tutorial, we will go over how to run the case study and what changes you can make to the case study data. 
 </p>
+
+<img src="Pictures\Dashboard_tutorials\Case_studies\model_list.png">
+
+
 
 <h2>The Copied Case Study</h2>
 
