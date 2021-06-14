@@ -7,12 +7,13 @@
 </p>
 
 <p>
-    The Nutrient Pollution Control case study attempts to reduce nutrient run off by redirecting the nutrients to support crop growth rather than HABs. This is done by changing the price of the phosphorus product. As the price of phosphorus increases, it gets more expensive to buy phosphorus fertilizers. Eventually, the price of using technologies to process waste becomes cheaper than buying the fertilizers. 
+    The Nutrient Pollution Control case study attempts to reduce nutrient run off by redirecting the nutrients to support crop growth rather than HABs. This is done by processing the waste into phosphorus product using technologies, then applies the phosphorus to croplands. However, this process is very expensive so phosphorus incentivaes are applied. As the price of phosphorus increases, it gets more expensive to buy phosphorus fertilizers. Eventually, the price of using technologies to process waste becomes cheaper than buying the fertilizers. 
 </p>
 
-<h2></h2>
-
-<h2>Case 1: 0 USD/kg P</h2>
+<h2>Case 1: $0 USD/kg P</h2>
+<h2>Case 2: $0.5 USD/kg P</h2>
+<h2>Case 3: $2.5 USD/kg P</h2>
+<h2>Case 4: $10 USD/kg P</h2>
 
 
 

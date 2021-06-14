@@ -26,7 +26,7 @@
 <a href="/ADAM_Documentation/custom_model.html">Custom Model Example Walkthrough</a>
 
 <h3>Dashboard</h3>
-<a href="/ADAM_Documentation/dashboard.md"></a>
+<a href="/ADAM_Documentation/dashboard.md">Dashboard Tutorial</a>
 
 <h3>Case Study Documentation</h3>
 <a href="/ADAM_Documentation/waste_to_energy.html">Waste to Energy Documentation</a>
