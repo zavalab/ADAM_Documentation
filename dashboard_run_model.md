@@ -94,8 +94,11 @@
 
 <img src="Pictures\Dashboard_tutorials\Case_studies\results_download.png">
 
+<h3>Visualization Tool</h3>
 
-
+<p>
+    Going to the visualization tool allow you to see the product pathways of the system. 
+</p>
 
 <br>
 <br>
