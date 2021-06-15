@@ -51,14 +51,42 @@
 <h2>3) View Results</h2>
 
 <p>
-    The results will show a summary of the economic performance of the system, along with a section for downloading the results (in the form of csv files), and a link to the visualization tool. 
+    The results will show a summary of the economic performance of the system, along with a section for downloading the results (in the form of csv files), and a link to the visualization tool. Note that the system includes the supply, demand, technology, and transportation data. 
+</p>
+
+<h3>Results Summary</h3>
+
+<p>
+    The results summary has several categories: total social welfare, total revenue, total supply cost, total transportation cost, total technology operational cost, total annulized investment cost. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\Case_studies\results.png">
 
 <p>
-    The summary 
+    The total social welfare shows the net economic performance of the system. It can be calculated by summing up all the costs and subtracting it from the total revenue. A positive number indicates that the system is profiting, and a negative number indicates that the system is suffering a loss. In this case, the system has a social welfare of +505,756 million USD/year which indicates that it is profiting in this scenario. 
 </p>
+
+<p>
+    The total revenue is the amount of money that the demand nodes give to the system to get a product. In this case, it is zero because the disposal node is not paying any money to obtain the waste product. 
+</p>
+
+<p>
+    The total supply cost is the money that the system pays the supplier in order for the supplier to provide the product. For example, a dairy farmer needs to get paid in order to offer their milk to the market. In a waste management scenario, the opposite is true. Waste is an undesireable product so suppliers will pay the system in order to get rid of their waste. This results in a negative supply cost since the system is actually profiting from the supply of waste. In this case, the supply cost is -975,000 million USD/year. This means that the system is gaining 975,000 million USD/year from the suppliers.
+</p>
+
+<p>
+    The total transportation cost is the money spent to transport the goods. In this case, the transportation costs are 405,201.90 million USD/year. 
+</p>
+
+<p>
+    The total operational cost is the money spent to operate the technology. In this case, the operating cost is $64,042 million USD/year. 
+</p>
+
+<p>
+    The investment cost is the money spent to build the technology. In this case it is zero because the technologies were already built. 
+</p>
+
+<h3>Download Results</h3> 
 
 
 <br>
