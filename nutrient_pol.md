@@ -33,11 +33,21 @@
 <h2>Case 1: $0 USD/kg P</h2>
 
 <p>
-    In the $0 phosphorus incentive case, 
+    For Case 1, phosphorus is not very profitable and very little manure is processed. You can tell because most of the transportation lines are red or black which are the raw manure products. The raw manure products are being sent directly to cropfields (indicated by nodes with P Release technologies that demand phosphorus). 
 </p>
 
 <h2>Case 2: $0.5 USD/kg P</h2>
+
+<p>
+    For Case 2, phosphorus prices are slightly increased and there is not much change to the system. There are a few more red and black transportation lines, but there is still not much waste being processed. Most of the waste is being directly applied to the croplands. 
+</p>
+
 <h2>Case 3: $2.5 USD/kg P</h2>
+
+<p>
+    For case 3, 
+</p>
+
 <h2>Case 4: $10 USD/kg P</h2>
 
 
