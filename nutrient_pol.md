@@ -17,13 +17,22 @@
 <h2>Process Graph</h2>
 
 <p>
-    
+    For the Nutrient Pollution Control case study, there are many products and technologies interacting with each other. This simplified process graph helps describe the potential products of the supply chain. 
 </p>
 
 <img src="Pictures\nutrient_pol\process_graph.png">
 
+<p>
+    In this system, there are three types of technologies: Solid Liquid Separation (SLS), Granulation, and P Release. SLS technologies take in raw cow manure and separates it into solid and liquid components. Granulation technologies take in the solid component from SLS technology and creates pellets which are used as fertilizers. P Release technologies are a pseudo technology that produces phosphorus from raw, solid, or liquid manure.  
+</p>
+
+<p>
+    If you map out every possible technology and product pathway, you get a process graph. 
+</p>
 
 <h2>Case 1: $0 USD/kg P</h2>
+
+
 <h2>Case 2: $0.5 USD/kg P</h2>
 <h2>Case 3: $2.5 USD/kg P</h2>
 <h2>Case 4: $10 USD/kg P</h2>
