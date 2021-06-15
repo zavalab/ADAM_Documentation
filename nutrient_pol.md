@@ -45,10 +45,17 @@
 <h2>Case 3: $2.5 USD/kg P</h2>
 
 <p>
-    For case 3, 
+    For case 3, we begin to see a lot more orange and blue transportation lines. These lines indicate the tranportation of solid manure products which are intermediate products resulting from the processing of raw manure through SLS technology. 
 </p>
 
 <h2>Case 4: $10 USD/kg P</h2>
+
+<p>
+    Case 4 shows even more transportation routes for the various solid and liquid products. Since phosphorus fertilizer prices are increasing, it is more expensive for CAFOs to buy phosphorus fertilizers. They would much rather process their waste at an existing technology site and apply it to cropfields so that they do not have to buy as much phosphorus fertilizers. This will reduce the amount of nutrient pollution that goes into the surrounding lake, and it provides a pathway for waste to be turned into a useful product.
+</p>
+
+<h2>Conclusion</h2> 
+
 
 
 
