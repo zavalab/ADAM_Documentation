@@ -29,7 +29,7 @@
 <h2>2) Make a copy</h2>
 
 <p>
-    Once you have navigated to the case study, select <b>Make a Copy</b>.
+    Once you have navigated to the case study, and click <b>Make a Copy</b>. Note that the copy will only contain one scenario so be sure to adjust to the desired scenario before you click <b>Make a Copy</b>.
 </p>
 
 

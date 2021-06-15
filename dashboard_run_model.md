@@ -56,5 +56,12 @@
 
 <img src="Pictures\Dashboard_tutorials\Case_studies\results.png">
 
+<p>
+    The summary 
+</p>
 
 
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard_edit_model.html">Next: Editing the Model</a>
