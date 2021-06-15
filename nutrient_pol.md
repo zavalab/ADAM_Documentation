@@ -51,12 +51,15 @@
 <h2>Case 4: $10 USD/kg P</h2>
 
 <p>
-    Case 4 shows even more transportation routes for the various solid and liquid products. Since phosphorus fertilizer prices are increasing, it is more expensive for CAFOs to buy phosphorus fertilizers. They would much rather process their waste at an existing technology site and apply it to cropfields so that they do not have to buy as much phosphorus fertilizers. This will reduce the amount of nutrient pollution that goes into the surrounding lake, and it provides a pathway for waste to be turned into a useful product.
+    Case 4 shows even more transportation routes for the various solid and liquid products. Since phosphorus fertilizer prices are increasing, it is more expensive for CAFOs to buy phosphorus fertilizers. They would much rather process their waste at an existing technology site and apply it to cropfields so that they do not have to buy as much phosphorus fertilizers. This will reduce the amount of nutrient pollution that goes into the surrounding lake, and it provides a pathway for waste to be turned into a useful product. 
 </p>
 
 <h2>Conclusion</h2> 
 
+<p>
+    Nutrient pollution caused by cattle waste runoff is damaging to nearby bodies of water, the aquatic life in the water, and small land creatures. In order to reduce nutrient pollution, CAFOs can apply their waste to croplands rather than purchasing phosphorus fertilizers. In order to encourage CAFOs to use their manure to support their crops, phosphorus incentives are applied. 
+</p>
 
-
-
-
+<p>
+    As a result of this case study, we found that as phosphorus prices increased, more waste would be processed and used as phosphorus-based fertilizers. 
+</p>
