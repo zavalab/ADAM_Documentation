@@ -94,6 +94,11 @@
 
 <img src="Pictures\Dashboard_tutorials\run_model\results_download.png">
 
+<p>
+    For more information on each of the result files and the data they contain, please refer to the 
+<a href="/ADAM_Documentation/dashboard_result_files.html">Result Files Tutorial</a>.
+</p>
+
 <h3>Visualization Tool</h3>
 
 <p>
