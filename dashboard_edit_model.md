@@ -33,8 +33,8 @@
 </p>
 
 <p>
-    Please go to  
-<a href="/ADAM_Documentation/dashboard_input_data.md">this</a>
+    For more detailed information on adding new data, please go to 
+<a href="/ADAM_Documentation/dashboard_input_data.html">this tutorial</a>.
     
 </p>
 
