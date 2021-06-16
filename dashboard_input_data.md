@@ -7,13 +7,13 @@
 <h2>Upload Data</h2>
 
 <p>
-    The first option we will go over is the <b>Upload Data</b> option. 
+    The first option we will go over is the <b>Upload Data</b> option. This option allows you to upload many data points at once by uploading a csv file. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\input_data\upload_data.png">
 
 <p>
-    In order to use this option, you must have a csv file with the supply information that you would like to add. In this example, we will be using an example csv file which you can find and download 
+    After selecting <b>Upload Data</b>, browse to the desired file and click <b>Upload</b>. The csv file that we will be using in this example can be found and downloaded 
 <a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Example">here</a>.
 </p>
 
