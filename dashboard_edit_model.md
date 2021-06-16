@@ -32,11 +32,13 @@
     In addition to editing existing nodes, you may also add new data. <b>Upload Data</b> is used when you have a csv file containing data points you would like to add. Otherwise, you can add a singular node by selecting <b>Manual Entry</b> and then filling out the required information. <b>Load from Model</b> allows you to select other models from your model list and import their data into this model. 
 </p>
 
-
 <p>
- You can download example files to input into the model 
- <a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Templates">here</a>.
+    Please go to  
+<a href="/ADAM_Documentation/dashboard_input_data.md">this</a>
+    
 </p>
+
+
 
 <p>
     If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
