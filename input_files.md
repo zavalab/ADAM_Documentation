@@ -262,4 +262,4 @@ Now try to interpret this example technology candidate file on your own:
 <br>
 <br>
 
-[back to homepage](/index.md)
+<a href="/ADAM_Documentation/dashboard_new_model.md">Next: Making a New Model from Scratch</a>

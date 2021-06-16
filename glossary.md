@@ -4,8 +4,7 @@
 
 <p id="CAFO_def"><b>CAFO</b> - Concentrated Animal Feeding Operation; a farm is defined as a CAFO if it contains over 1000 animal units (AU) that are confined for overr 45 days per year.</p>
 
-<p id="design_model_def"><b>Design-Type Model</b> - a model used for building supply chains in a system where the technologies do not yet exist. 
-.</p>
+<p id="design_model_def"><b>Design-Type Model</b> - a model used for building supply chains in a system where the technologies do not yet exist.</p>
 
 <p id="cust_def"><b>Customer</b> - a person, place, or thing that demands products. Once a product is purchased by a customer, the product is removed from the system.</p>
 
