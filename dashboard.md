@@ -9,7 +9,7 @@
 
 <h2>Contents</h2>
 
-<a href="/ADAM_Documentation/dashboard_case_study.html">Making a copy of an existing case study</a>
+<a href="/ADAM_Documentation/dashboard_copy_model.html">Making a copy of an existing case study</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_run_model.html">Running the model</a>
 <br>

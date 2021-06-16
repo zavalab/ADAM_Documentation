@@ -10,7 +10,7 @@
     Clicking on the case study in your model list will take you to an overview of the model. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\copied_model.png">
+<img src="Pictures\Dashboard_tutorials\run_model\copied_model.png">
 
 <p>
     The steps in the progress bar are as follows: (1) Define model type, (2) Add supply data, (3) Add technology data, (4) Add demand data, (5) Add transportation data, (6) Run model. For more information about each step, please refer to the tutorial. 
@@ -20,7 +20,7 @@
     Notice that the model status is <b>Data Required</b>. That is because only steps 1 - 4 are completed for a copied model. You may click through the completed steps to view the model data, but in order to run the model, you must complete step 5. Do this by selecting <b>Generate Transportation Routes</b>. The other options will be explained in the next tutorial.
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\step5.png">
+<img src="Pictures\Dashboard_tutorials\run_model\step5.png">
 
 <br> 
 
@@ -28,7 +28,7 @@
     Make sure that you select all the transportation routes in the data layers before saving. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\transport_routes.png">
+<img src="Pictures\Dashboard_tutorials\run_model\transport_routes.png">
 
 <h2>2) Run the Model</h2>
 
@@ -36,7 +36,7 @@
     After this, you can go to step 6 and run the model.
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\run.png">
+<img src="Pictures\Dashboard_tutorials\run_model\run.png">
 
 <br>
 
@@ -44,9 +44,9 @@
     Once the status changes from <b>Running</b> to <b>Completed</b> you can view the model results. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\running.png">
+<img src="Pictures\Dashboard_tutorials\run_model\running.png">
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\progress_bar.png">
+<img src="Pictures\Dashboard_tutorials\run_model\progress_bar.png">
 
 <h2>3) View Results</h2>
 
@@ -60,7 +60,7 @@
     The <b>results summary</b> has several categories: <b>total social welfare, total revenue, total supply cost, total transportation cost, total technology operational cost, total annulized investment cost</b>. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\results.png">
+<img src="Pictures\Dashboard_tutorials\run_model\results.png">
 
 <p>
     The <b>total social welfare is the net economic performance of the system</b>. It can be calculated by summing up all the costs and subtracting it from the total revenue. A positive number indicates that the system is profiting, and a negative number indicates that the system is suffering a loss. In this case, the system has a social welfare of +505,756 million USD/year which indicates that it is profiting in this scenario. 
@@ -92,7 +92,7 @@
     You can also download the results in the form of csv files for more detailed information. There may be a different number of csv files depending on the number of products that you have in your system; however, all models will have a clearing_prices.csv, demand_results.csv, results_summary.csv, supply_results.csv, techsite_results.csv.
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\results_download.png">
+<img src="Pictures\Dashboard_tutorials\run_model\results_download.png">
 
 <h3>Visualization Tool</h3>
 

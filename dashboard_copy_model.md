@@ -15,7 +15,7 @@
     Click on the case studies icon to navigate into the published case studies.
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\nav_to_case_studies_1.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\nav_to_case_studies_1.png">
 
 <br>
 
@@ -23,7 +23,7 @@
     Next, select the published case study that you would like to copy. In this example, we will be selecting the <b>Waste to Energy</b> example. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\nav_to_case_studies_2.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\nav_to_case_studies_2.png">
 
 
 <h2>2) Make a copy</h2>
@@ -33,7 +33,7 @@
 </p>
 
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\case_study.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\case_study.png">
 
 <br>
 
@@ -41,7 +41,7 @@
     Once you have clicked <b>Make a Copy</b> a popup window will appear, prompting you to edit the model name. Change the model name as desired and click <b>Yes</b>. This will create a copy of the Low Electricity Price scenario for the Waste to Energy case study. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\case_study_window.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\case_study_window.png">
 
 <h2>Step 3: Locating the copied model</h2>
 
@@ -49,7 +49,7 @@
     Click <b>Manage Models</b> on the dashboard homepage. You will then be taken to the Model list. There you will find the copy of the case study. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\manage_models.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\manage_models.png">
 
 <br> 
 
@@ -57,7 +57,7 @@
     Once you have created a copy of the model, you can make changes to it or run it as is. In the next section of the tutorial, we will go over how to run the case study as is. After that, we will go over the various changes you can make to the case study data. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\model_list.png">
+<img src="Pictures\Dashboard_tutorials\copy_model\model_list.png">
 
 <br>
 <br>

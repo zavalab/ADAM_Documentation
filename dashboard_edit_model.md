@@ -14,7 +14,7 @@
     Step 1 is where the model type is defined. For most situations, you should leave the model type and time basis of a copied model as is. If the model type does not match the data, ADAM will be unable to run the model. If you are not sure, it is best to set it to supply chain design mode on a yearly time basis. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\step1.png">
+<img src="Pictures\Dashboard_tutorials\edit_model\step1.png">
 
 <p>
     In this example, we can see that the copied model is a design-type model with an annual time basis. 
@@ -26,7 +26,7 @@
     For step 2, you can double-click the nodes from the case study to edit their information. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\step2.png">
+<img src="Pictures\Dashboard_tutorials\edit_model\step2.png">
 
 <p>
     In addition to editing existing nodes, you may also add new data. <b>Upload Data</b> is used when you have a csv file containing data points you would like to add. Otherwise, you can add a singular node by selecting <b>Manual Entry</b> and then filling out the required information. <b>Load from Model</b> allows you to select other models from your model list and import their data into this model. 
@@ -50,5 +50,5 @@
     Similar to the previous step, you can double-click the nodes on the ADAM website to edit their information. Additionally, you 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\Case_studies\step3.png">
+<img src="Pictures\Dashboard_tutorials\edit_model\step3.png">
 
