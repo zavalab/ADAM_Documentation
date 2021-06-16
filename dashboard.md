@@ -11,9 +11,9 @@
 
 <a href="/ADAM_Documentation/dashboard_copy_model.html">Making a copy of an existing case study</a>
 <br>
-<a href="/ADAM_Documentation/dashboard_run_model.html">Running the model</a>
+<a href="/ADAM_Documentation/dashboard_run_model.html">Running the copied model</a>
 <br>
-<a href="/ADAM_Documentation/dashboard_edit_model.html">Editing the model</a>
+<a href="/ADAM_Documentation/dashboard_edit_model.html">Editing the copied model</a>
 
 
 

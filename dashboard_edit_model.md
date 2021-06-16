@@ -20,10 +20,10 @@
     In this example, we can see that the copied model is a design-type model with an annual time basis. 
 </p>
 
-<h2>Step 2 - Supply Data</h2>
+<h2>Steps 2, 3, 4 - Adding Supply, Technology, and Demand Data</h2>
 
 <p>
-    For step 2, you can double-click the nodes from the case study to edit their information. 
+    For steps 2-4, you can double-click the nodes from the case study to edit their information. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step2.png">
@@ -38,17 +38,11 @@
     
 </p>
 
-
-
 <p>
     If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
 </p>
 
-<h2>Step 3 - Technology Data</h2>
+<h2>Step 5 - Transport Data</h2>
 
-<p>
-    Similar to the previous step, you can double-click the nodes on the ADAM website to edit their information. Additionally, you 
-</p>
 
-<img src="Pictures\Dashboard_tutorials\edit_model\step3.png">
 

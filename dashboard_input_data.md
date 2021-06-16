@@ -81,3 +81,6 @@
 </p>
 
 <img src="Pictures\Dashboard_tutorials\input_data\load_model_data.png">
+
+
+<a href="/ADAM_Documentation/dashboard_edit_model.html">Return to Editing the Model Tutorial</a>
