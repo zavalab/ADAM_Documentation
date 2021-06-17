@@ -15,11 +15,7 @@
 <a href="/ADAM_Documentation/dashboard_run_model.html">Running the copied model</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_edit_model.html">Editing the copied model</a>
-
-<br>
-
 <h3>Making your own model from scratch</h3>
-
 <a href="/ADAM_Documentation/input_files.html">The input files needed for ADAM</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_new_model.html">Making a model from scratch</a>

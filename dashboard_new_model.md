@@ -112,4 +112,40 @@
 
 <h2>Step 5 - Transport Data</h2>
 
+<p>
+    Step 5 is adding the transportation data to the model. For models with many nodes (over 200), you should select the <b>Skip</b> option. Otherwise, select <b>Generate Transportation Routes</b>. This will generate every possible pathway for each product. Make sure to select all the data layers before saving. 
+</p>
+
+<p>
+    The digestate pathways overlap the bio-electricity pathways so in order to view the bio-electricity pathways, you may have to toggle some of the data layers. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\new_model\step5.png">
+
+<p>
+    The <b>Read Transportation Data</b> option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes. 
+</p>
+
+<p>
+    After generating transportation routes, you can now use the distance filter option. This allows you to limit the tranportation pathways to those within a certian distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\new_model\dist_filter.png">
+
+<p>
+    After applying the transportation routes, click <b>Save Changes</b> in order to save. 
+</p>
+
+<h2>Step 6 - Run Model</h2> 
+
+<p>
+    Now that all of the input data is uploaded, the model is now complete. The final step is running the model. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\new_model\step6.png">
+
+<p>
+    Once the status is <b>Completed</b>, you may view the results.
+</p>
+
 
