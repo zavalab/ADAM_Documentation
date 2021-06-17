@@ -145,7 +145,23 @@
 <img src="Pictures\Dashboard_tutorials\new_model\step6.png">
 
 <p>
-    Once the status is <b>Completed</b>, you may view the results.
+    Once the status is <b>Completed</b>, you may view the results. For more information on how to interpert the results, please refer to the end of the 
+<a href="/ADAM_Documentation/dashboard_run_model.html">Running a Model without Making Any Changes Tutorial.</a>
 </p>
 
+<img src="Pictures\Dashboard_tutorials\new_model\completed.png">
 
+<h2>The Other Options</h2>
+
+<p>
+    Besides the <b>View Model Results</b> option, there are also several other options that you can select. Below, there is a short description of the option and their functions. 
+</p>
+
+<ul>
+    <li>Clear Model Data - clears all data in the model</li>
+    <li>Delete Model - deletes the model from the model list</li>
+    <li>Load Model - loads data from another model into this model</li>
+    <li>Download Model Data - allows you to download all of the input data (supply, technology, demand) in the form of csv files</li>
+    <li>Get P-Graph - allows you to view the process graph for this system</li>
+    <li>View Model Results - displays the results of the model</li>
+</ul>
