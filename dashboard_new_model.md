@@ -101,4 +101,15 @@
 <h2>Step 4 - Demand Data</h2>
 
 <p>
+    Similar to the supply and technology data, we will upload a csv file containing the demand data in step 4. After uploading the example, the model should look like this:
 </p>
+
+<img src="Pictures\Dashboard_tutorials\new_model\step4.png">
+
+<p>
+    Then click <b>Next</b> to save the demand data and proceeed to the next step. 
+</p>
+
+<h2>Step 5 - Transport Data</h2>
+
+

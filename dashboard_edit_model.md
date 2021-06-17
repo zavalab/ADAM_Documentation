@@ -39,10 +39,15 @@
 </p>
 
 <p>
-    If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
+    If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. If you want to delete a single node, you can right click on the node. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
 </p>
 
 <h2>Step 5 - Transport Data</h2>
 
+<p>
+    
+</p>
+
+<img src="Pictures\Dashboard_tutorials\edit_model\step5.png">
 
 

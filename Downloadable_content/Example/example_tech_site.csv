@@ -1,2 +1,2 @@
-#,"	Latitude","	Longitude","	Tech ID","	Capacity"
-ts1,43.2376,-89.3392,t12,"	10000"
+#,Latitude,",Longitude",Tech ID,Capacity
+ts1,43.2376,-89.3392,t1,10000

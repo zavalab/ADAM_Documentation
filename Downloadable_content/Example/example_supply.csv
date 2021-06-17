@@ -1,4 +1,4 @@
-#, Latitude, Longitude, Product ID, Price, Capacity
-s1,43.1766,-89.3091,p1,0,1000
+#,Latitude,",Longitude",Feed ID,Price,Capacity
+s1,43.1766,-89.3091,p1,-13,17000
 s2,43.2407,-89.6464,p1,-5,50000
-s3,43.2622,-89.2733,p1,-3,2500
+s3,43.2622,-89.2733,p1,-15,25000
