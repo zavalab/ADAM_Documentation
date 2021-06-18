@@ -45,9 +45,26 @@
 <h2>Step 5 - Transport Data</h2>
 
 <p>
-    
+    Step 5 is adding the transportation data to the model. For a copied model, there is no transportation data; you will have to add that yourself. For models with many nodes (over 200), you should select the <b>Skip</b> option. Otherwise, select <b>Generate Transportation Routes</b>. This will generate every possible pathway for each product. Make sure to select all the data layers before saving. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step5.png">
 
+<p>
+    In this case, the model has less than 200 nodes, so we select <b>Generate Transportation Routes</b>. Selecting all the data layers indicates that we want to consider every possible pathway in the calculation. 
+</p>
 
+<p>
+    The <b>Read Transportation Data</b> option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes. 
+</p>
+
+<p>
+    After generating transportation routes, you can now use the distance filter option. This allows you to limit the tranportation pathways to those within a certian distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\edit_model\step5_filter.png">
+
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard_new_model.html">Next: Making your own model from scratch</a>

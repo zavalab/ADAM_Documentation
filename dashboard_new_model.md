@@ -145,8 +145,8 @@
 <img src="Pictures\Dashboard_tutorials\new_model\step6.png">
 
 <p>
-    Once the status is <b>Completed</b>, you may view the results. For more information on how to interpert the results, please refer to the end of the 
-<a href="/ADAM_Documentation/dashboard_run_model.html">Running a Model without Making Any Changes Tutorial.</a>
+    Once the status is <b>Completed</b>, you may view the results. For more information on how to interpert the results, please refer to the
+<a href="/ADAM_Documentation/dashboard_results.html">Interpreting the Results Tutorial</a>.
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\completed.png">
@@ -158,10 +158,9 @@
 </p>
 
 <ul>
-    <li>Clear Model Data - clears all data in the model</li>
-    <li>Delete Model - deletes the model from the model list</li>
-    <li>Load Model - loads data from another model into this model</li>
-    <li>Download Model Data - allows you to download all of the input data (supply, technology, demand) in the form of csv files</li>
-    <li>Get P-Graph - allows you to view the process graph for this system</li>
-    <li>View Model Results - displays the results of the model</li>
+    <li><b>Clear Model Data</b> - clears all data in the model</li>
+    <li><b>Delete Model</b> - deletes the model from the model list</li>
+    <li><b>Load Model</b> - loads data from another model into this model</li>
+    <li><b>Download Model Data</b> - allows you to download all of the input data (supply, technology, demand) in the form of csv files</li>
+    <li><b>Get P-Graph</b> - allows you to view the process graph for this system</li>
 </ul>
