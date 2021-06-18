@@ -11,13 +11,13 @@
 <h2>Step 1 - Model Type</h2>
 
 <p>
-    Step 1 is where the model type is defined. For most situations, you should leave the model type and time basis of a copied model as is. If the model type does not match the data, ADAM will be unable to run the model. If you are not sure, it is best to set it to supply chain design mode on a yearly time basis. 
+    Step 1 is where the model type and time basis are defined. For a copied model, you should leave the model type and time basis as is. Running a model as a mamagement-type model will give different result files than running the model as a design-type model. As a rule of thumb, design-type models have technology candidates whereas management-type models do not. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step1.png">
 
 <p>
-    In this example, we can see that the copied model is a design-type model with an annual time basis. 
+    Since the waste to energy example does not have technology candidates, it is a management-type model. 
 </p>
 
 <h2>Steps 2, 3, 4 - Adding Supply, Technology, and Demand Data</h2>

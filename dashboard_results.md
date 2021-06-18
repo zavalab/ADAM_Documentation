@@ -26,7 +26,7 @@
 <br>
 
 <p>
-    Now that we have reviewed the result summary categories, we can apply these definitions to interpret this example results. 
+    Now that we have reviewed the result summary categories, we can apply these definitions to interpret the Waste to Energy, Low Electricity price scenario results. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\run_model\results.png">
@@ -42,27 +42,47 @@
 <h2>Download Results</h2> 
 
 <p>
-    You can also download the results in the form of csv files for more detailed information. For each model, there may be different result csv files depending on the model-type and the number of products that you have in your system.
+    You can also download the results in the form of csv files for more detailed information. For each model, there may be different result csv files depending on the model-type and the number of products that you have in your system. 
+</p>
+
+<p>
+    The table below gives a breif overview of the different types of result files. 
 </p>
 
 | Result File | Description |
 | ------------- | ------------- | 
-| clearing_prices | |
-| demand_results | |
-| flow_results | |
-| installment_results | | 
-| results_summary | |
-| supply_results | |
-| techsite_results | | 
-
-
-
-<img src="Pictures\Dashboard_tutorials\run_model\results_download.png">
+| clearing_prices | The real prices of the products at each node. This file is only generated for <b>management-type models</b>. |
+| demand_results | Contains information on the products and amount of product that is transported to each demand node. |
+| flow_results | Shows the amount of product flowimg from one node to another. The left column are the nodes which are supplying the product. The top row are the nodes that are receiving the product. |
+| installment_results | A list of the installed technologies and their locations. This file is only generated for <b>design-type models</b>. | 
+| results_summary | A file containing the results summary of the model. |
+| supply_results | A list of the supply nodes and how much product they are supplying to the system. |
+| techsite_results | A list of the amount of product processed at each technology site. | 
 
 <p>
-    For more information on each of the result files and the data they contain, please refer to the 
-<a href="/ADAM_Documentation/dashboard_result_files.html">Result Files Tutorial</a>.
+    Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. 
 </p>
+
+<h3>Clearing Prices File</h3>
+
+<p>
+
+</p>
+
+<h3>Demand Results File</h3>
+
+<p>
+</p>
+
+<h3>Flow Results File</h3>
+
+<h3>Installment Results File</h3>
+
+<h3>Results Summary File</h3>
+
+<h3>Supply Results File</h3>
+
+<h3>Technology Site Results File</h3>
 
 <h2>Visualization Tool</h2>
 

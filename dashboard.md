@@ -21,6 +21,10 @@
 <a href="/ADAM_Documentation/input_files.html">The input files needed for ADAM</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_results.html">Interpreting the Results</a>
+<br>
+<a href="/ADAM_Documentation/dashboard_vis_tool.html">Using the Visualization Tool</a>
+<br>
+<a href="/ADAM_Documentation/dashboard_p_graph.html">Interpreting the P-Graph</a>
 
 
 <!-- 
