@@ -170,7 +170,7 @@
     These results indicates that tech site, t1, processed 10,000 units of product. 
 </p>
 
-<h2>Visualization Tool</h2>
+<h2 id="vis_model_results">Visualization Tool</h2>
 
 <p>
     Clicking the button under the <b>Visualization</b> section will take you to the visualization tool where you will see an empty map along with two buttons labeled <b>Visualize Model Data</b> and <b>Visualize Model Results</b>.
