@@ -60,7 +60,8 @@
 | techsite_results | A list of the amount of product processed at each technology site. | 
 
 <p>
-    Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. If you would like to look at the result files on your own, 
+    Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. For this example, you can download the result files 
+<a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/waste_to_energy_low_price_results">here</a>. 
 </p>
 
 <h3>Clearing Prices File</h3>
@@ -121,14 +122,74 @@
 
 <h3>Installment Results File</h3>
 
+<p>
+    The installment results file is only generated for design-type models, so the Waste to Energy example does not have an installment results file. Instead, we will show an example installment results file from another model. 
+</p>
+
+<p>
+    TODO: ADD OTHER EXAMPLE
+</p>
+
 <h3>Results Summary File</h3>
+
+<p>
+    The results summary file contains an overview of the economic performance of the system. This is the same information displayed when you first click <b>View Results</b>. 
+</p>
+
+<p>
+    An example of the Waste to Energy result summary is shown below. For the interpertation of this file, see the top of this tutorial. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\results_summary.png">
 
 <h3>Supply Results File</h3>
 
+<p>
+    The supply results file contains information on each supply node and the amount of product that they are supplying in an optimal system. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\supply_results.png">
+
+<p>
+    In the Waste to Energy example, supply node, s1, supplies 65,000 units of cow manure (p1) at a price of -$5 per unit. The negative price indicates reverse money flow (i.e. the supplier pays the customer). 
+</p>
+
 <h3>Technology Site Results File</h3>
+
+<p>
+    The technology site results file shows how much product is processed at each technology site in the optimal system. 
+</p>
+
+<p>
+    In the waste to energy (low electricity price), there were no tech site results. The example below is from a different model. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\tech_site.png">
+
+<p>
+    These results indicates that tech site, t1, processed 10,000 units of product. 
+</p>
 
 <h2>Visualization Tool</h2>
 
 <p>
-    Going to the visualization tool allow you to see the product pathways of the system. 
+    Clicking the button under the <b>Visualization</b> section will take you to the visualization tool where you will see an empty map along with two buttons labeled <b>Visualize Model Data</b> and <b>Visualize Model Results</b>.
 </p>
+
+<p>
+     Selecting <b>Visualize Model Data</b> will display the nodes from the model onto the map.
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\vis_data.png">
+
+<p>
+    Selecting <b>Visualize Model Results</b> will display the transportation results. The grey nodes indicate nodes that do not participate in the system. You can toggle which transportation paths to view by checking and unchecking the data layers under transportation results. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\vis_results.png">
+
+<p>
+    You can also view the price gradients for each product. Red areas indicate high prices and blue areas indicate low prices. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\vis_price.png">
