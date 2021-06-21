@@ -3,7 +3,7 @@
 <h2>Welcome to the Dashboard Tutorial!</h2>
 
 <p>
-    This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the tutorials in order and following along as you go through each one. 
+    This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the first set of tutorials in order to get familiar with ADAM. 
 </p>
 
 
@@ -25,14 +25,3 @@
 <a href="/ADAM_Documentation/dashboard_vis_tool.html">Using the Visualization Tool</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_p_graph.html">Interpreting the P-Graph</a>
-
-
-<!-- 
-    Tutorials Need to Make: 
-
-    Using published case studies to make a model 
-    Making your own model from scratch 
-    Using the visualization tool
-    Using the technology database 
-    Using the product database 
--->

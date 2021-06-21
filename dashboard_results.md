@@ -42,7 +42,7 @@
 <h2>Download Results</h2> 
 
 <p>
-    You can also download the results in the form of csv files for more detailed information. For each model, there may be different result csv files depending on the model-type and the number of products that you have in your system. 
+    You can also download the results in the form of csv files. For each model, there may be different result csv files depending on the model-type and the number of products that you have in your system. 
 </p>
 
 <p>
@@ -60,21 +60,64 @@
 | techsite_results | A list of the amount of product processed at each technology site. | 
 
 <p>
-    Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. 
+    Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. If you would like to look at the result files on your own, 
 </p>
 
 <h3>Clearing Prices File</h3>
 
 <p>
+    The clearing prices file for the Waste to Energy case study is shown below. The clearing price is the real price of the product at that node. This is different from the supply and demand prices that we set in the model. 
+</p>
 
+<p>
+    When we defined the supply and demand prices, those were the maximum prices that the supply and the demand nodes were willing to pay. For example, a CAFO is willing to spend up to $5 to get rid of their waste; however, if a customer is willing to take that waste for $3, the CAFO will gladly get rid of their waste for less.
+</p>
+
+<p>
+    Below is the clearing price file results for the Waste to Energy, Low Electricity Incentives case study example. 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\clearing_prices.png">
+
+<p>
+    The column on the left indicates the node at which the transaction is taking place, the top row are the products being traded, and the numbers in the center are the prices at which the transactions are taking place. 
+</p>
+
+<p>
+    You can interpret each of the prices in this way: if [product] were to be traded at [node], then the transaction price would be [price]. For example, the interpretation of the -5.45 price in cell B4 of the excel sheet would be the following: if p1 were to be traded at n3, then the transaction price would be -$5.45 per unit of p1. A negative price indicates that the seller loses money, while the buyer gains money.
+</p>
+
+<p>
+    You can also relate this interpretation to the type of node. For example, n1 is a supply node that is supplying product p1 at a price of -$3.32 per unit of p1. Additionally, if n1 also demanded p2, -$0.10 would be the price at which n1 would buy p2. If the node in question does not supply or demand the products listed, the prices would just represent the prices of the product if they were sold at that location. 
 </p>
 
 <h3>Demand Results File</h3>
 
 <p>
+    The demand results file contains information on the type of product and amount of product that the demand node receives for the solved system.  
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\demand_results.png">
+
+<p>
+    In this example, we can see that demand node d3 (also denoted as node n6) receives 115,000 units of p1 in the optimal system. 
 </p>
 
 <h3>Flow Results File</h3>
+
+<p>
+    The results zip file may contain multiple flow results files depending on the number of products in your system. In the Waste to Energy case, there are three flow result files, one for each of the three products being transferred: cow manure (p1), bio-electricity (p2), and digestate (p3). 
+</p>
+
+<p>
+    The flow results for p1 are shown below: 
+</p>
+
+<img src="Pictures\Dashboard_tutorials\results\flow_results.png" >
+
+<p>
+    The left column indicates the node that is supplying the product, and the top row indicates the node that is receiving the product. This flow results file is indicating that 65,000 units of p1 is flowing from n1 to n6, 35,000 units of p1 is flowing from n2 to n6, and 15,000 units of p1 is flowing from n3 to n6. 
+</p>
 
 <h3>Installment Results File</h3>
 
