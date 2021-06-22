@@ -3,7 +3,7 @@
 <h2>Background information</h2>
 
 <p>
-  In a custom model, you can provide your own information about the supply, demand, and technologies of your system. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will determine whether to build a technology at a certian site. Additionally, it will calculate the performace of the system, including the technologies that were worth building. 
+  In a custom model, you can provide information about the supply, demand, and technologies of your system. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will determine whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
 </p>
 
 <br>
@@ -24,15 +24,15 @@
 <img src="Pictures\custom_model\input_dat.png">
 
 <p>
-  Similar to the biogas from waste example, the inputs for the custom model are supply data, customer data, technology data, and trasportation data. The only difference is the information included in the technology data.
+  Similar to the biogas from waste example, the inputs for the custom model are supply data, customer data, technology data, and transportation data. The only difference is the information included in the technology data.
 </p>
 
 <p>
- In the biogas from waste example, the technology data only included information about existing technology sites. This makes sense since the biogas from waste model is a management-type model; however, for a design-type model, we must also consider <b>technology candidates</b>, sites where technologies could potentially be built. 
+ In the biogas from waste example, the technology data only included information about existing technology sites. This makes sense since the Biogas from Waste model is a management-type model; however, for a design-type model, we must also consider <b>technology candidates</b>, sites where technologies could potentially be built. 
 </p>
 
 <p>
-  All other inputs are the same as the biogas from waste example except the suppliers and customers are generic; the suppliers do not need to be CAFOs which supply cattle waste and the consumers do not need to be the same as the ones in the biogas from waste example. 
+  All other inputs are the same as the biogas from waste example except the suppliers and customers are generic; the suppliers do not need to be CAFOs that supply cattle waste and the consumers do not need to be the same as the ones in the biogas from waste example. 
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 <img src="Pictures\custom_model\output_dat.png">
 
 <p>
-  The outputs of the custom model includes flow data, transportation data, value data, and design data. 
+  The outputs of the custom model include flow data, transportation data, value data, and design data. 
 </p>
 
 <p>The flow data shows the amount of product transported along each pathway, the transportation data shows the transportation cost of moving the product from one place to another, the value data shows the value of the products at different locations, and the design data shows the technologies that should be installed at each location. 
@@ -55,7 +55,7 @@
 <img src="Pictures\custom_model\step1.png">
 
 <p>
-  For the first step of creating a model, we must define the model-type and time-basis. As stated before, this example will go over a design-type model. The time-basis is left as year which is the default setting.
+  For the first step of creating a model, we must define the model-type and time basis. As stated before, this example will go over a design-type model. The time-basis is left as year which is the default setting.
 </p>
 
 <br>
@@ -109,7 +109,7 @@ Your browser does not support the video.
 <br> 
 
 <p>
-  You can also double-click to edit the capacities of the technology sites. The technology candidate node cannot be edited.In the video below, Technology1's capacity is changed from 60,000 to 80,000 tonnes of waste. This means that Technology1 can now process 20,000 more tonnes of waste than it could before.  
+  You can also double-click to edit the capacities of the technology sites. The technology candidate node cannot be edited. In the video below, Technology1's capacity is changed from 60,000 to 80,000 tonnes of waste. This means that Technology1 can now process 20,000 more tonnes of waste than it could before.  
 </p>
 
 <video width="840" controls>
@@ -133,7 +133,7 @@ Your browser does not support the video.
 <br>
 
 <p>
-  Similar to the other steps we have encountered, you can also double-click the nodes to edit the demand information about each consumer. In the video below, Consumer4's capacity is changed from 30,000 to 60,000 gallons of biomethane per year, and it's price is changed from $3,000 to $3,500 per gallon. This means that Consumer4 now demands a maximum of 60,000 gallons of biomethane per year and is willing to buy the biomethane at a price of $3,500 per gallon. 
+  Similar to the other steps we have encountered, you can also double-click the nodes to edit the demand information about each consumer. In the video below, Consumer4's capacity is changed from 30,000 to 60,000 gallons of biomethane per year, and its price is changed from $3,000 to $3,500 per gallon. This means that Consumer4 now demands a maximum of 60,000 gallons of biomethane per year and is willing to buy the biomethane at $3,500 per gallon. 
 </p>
 
 <video width="840" controls>
@@ -183,9 +183,10 @@ Your browser does not support the video.
   The right graph shows the product pathways from the technology sites to the consumers. Hovering over the pathways would quantitatively show the amount of product that is being transported across that pathway and the total transportation cost of moving that amount of product. 
 </p>
 
-
 <img src="Pictures\custom_model\results.png">
 
 <p>
   Please try moving and editing points on your own to get familiar with ADAM! 
 </p>
+
+

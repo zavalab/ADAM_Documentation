@@ -5,13 +5,12 @@
 </p>
 
 <p>
-    In this tutorial, we will go through each of the file types, the information it is providing, and how to interpert an entry.
+    In this tutorial, we will go through each of the file types, the information it is providing, and how to interpret an entry.
 </p>
 
 <p>
     Templates for each type of file are provided <a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Templates">here.</a>
 </p>
-
 
 ## Supply File 
 
@@ -30,7 +29,7 @@ The common headers and their descriptions for the supply file are explained belo
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Product ID | The product identification code that corresponds to the waste product being produced. <br>*__note: this can be looked up in the ADAM product database.__* |
 | Price | The amount of money that the supplier gains or spends in order to supply a product in USD per product unit (e.g. USD per tonnes). A negative price indicates that the supplier loses money by producing that product. A positive price indicates that the supplier gains money by producing that product. <br> ***note: check the ADAM product database for product units.***  |
-| Capacity | The amount of product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
+| Capacity | The amount of product produced on a time basis (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthly, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
 <br>
 
@@ -38,12 +37,10 @@ The common headers and their descriptions for the supply file are explained belo
     Here is how it would look in a supply file used in ADAM: 
 </p>
 
-
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | s1 | 43.0731 | -89.4012 | p5 | 0 | 500 |
 | ...  | ... | ...  | ... | ...  | ... |
-
 
 <p>
     Using the given information, we can interpert the entry in the example above as a supply node, denoted as <b>s1</b>, located at <b>43.0731 N, 89.4012 W</b> which produces <b>liquid digestate waste product (p5)</b> at a yield of <b>500 tonnes</b> per time basis and at <b>zero cost</b> to the supplier.  
@@ -54,15 +51,13 @@ The common headers and their descriptions for the supply file are explained belo
 </p>
 
 <br>
-Now try to interpert this example supply file on your own: 
-
+Now try to interpret this example supply file on your own: 
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ...  | ... | ...  | ... | ...  | ... |
 | s5 | 39.7687 | -76.6797 | p25 | 0.06 | 100 |
 | ...  | ... | ...  | ... | ...  | ... |
-
 
 <details> 
   <summary>Click here to check your answer</summary>
@@ -71,7 +66,6 @@ Now try to interpert this example supply file on your own:
     </p>
 </details>
 
-
 ## Demand File 
 
 <p>
@@ -79,9 +73,8 @@ Now try to interpert this example supply file on your own:
 </p>
 
 <p>
-    The demand file has the same file headers as the supply file with slightly different interpertations. These headers and their descriptions are explained below: 
+    The demand file has the same file headers as the supply file with slightly different interpretations. These headers and their descriptions are explained below: 
 </p>
-
 
 | Header Symbol | Description |
 | ------------- | ------------- | 
@@ -90,8 +83,7 @@ Now try to interpert this example supply file on your own:
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Product ID | The product identification code that corresponds to the product demanded by the node. <br>*__note: this can be looked up in the ADAM product database.__* |
 | Price | The market price of the product per product unit (i.e. the price at which the consumer is purchasing the product). <br> ***note: check the ADAM product database for product units.***  |
-| Capacity | The **maximum** amount of product that the node can demand on a per time basis (e.g. 1000 tonnes per year). The actual amount of product that the demand node receives may be less than or equal to this number. <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
-
+| Capacity | The **maximum** amount of product that the node can demand on a per-time basis (e.g. 1000 tonnes per year). The actual amount of product that the demand node receives may be less than or equal to this number. <br> The time basis (i.e. daily, monthly, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: check the ADAM product database for product units.__* |
 
 <br>
 
@@ -99,15 +91,13 @@ Now try to interpert this example supply file on your own:
 Here is how it would look in a demand file used in ADAM: 
 </p>
 
-
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | d1 | 43.0731 | -89.4012 | p2 | 0.06 | 1700 |
 | ...  | ... | ...  | ... | ...  | ... |
 
-
 <p>
-    We can now interpert <b>d1</b> as a demand node located at <b>43.0731 N, 89.4012 W</b> which demands a <b>maximum of 1700 kWh of bio-electricity</b> per time basis at a price of <b>$0.06 USD per kWh</b>. In other words, d1 is buying bio-electricity at a price of $0.06 USD per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
+    We can now interpret <b>d1</b> as a demand node located at <b>43.0731 N, 89.4012 W</b> which demands a <b>maximum of 1700 kWh of bio-electricity</b> per time basis at a price of <b>$0.06 USD per kWh</b>. In other words, d1 is buying bio-electricity at a price of $0.06 per kWh and can buy a maximum of 1700 kWh of bio-electricity per time basis. 
 </p>
 
 <p>
@@ -115,16 +105,14 @@ Here is how it would look in a demand file used in ADAM:
 </p>
 
 <p>
-Now try to interpert this example supply file on your own: 
+Now try to interpret this example supply file on your own: 
 </p>
-
 
 | # | Latitude | Longitude | Product ID | Price | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ...  | ... | ...  | ... | ...  | ... |
 | d32 | 38.9072 | -77.0369 | p24 | 200 | 5250 |
 | ...  | ... | ...  | ... | ...  | ... |
-
 
 <details> 
   <summary>Click here to check your answer</summary>
@@ -133,7 +121,6 @@ Now try to interpert this example supply file on your own:
     </p>
 </details>
 
-
 ## Technology Site File 
 
 <p>
@@ -141,7 +128,7 @@ Now try to interpert this example supply file on your own:
 </p>
 
 <p>
-    Unlike existing technologies, <b>pseudo technologies</b> are not physical techology sites and thus do not require installation or operational costs. Instead, <b>pseudo technologies represent natural processes such as the release of nutrients into the soil</b>. For example, when struvite, a phosphorus-based fertilizer, is applied to cropfields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology which transforms strufite into phsophorus.
+    Unlike existing technologies, <b>pseudo technologies</b> are not physical technology sites and thus do not require installation or operational costs. Instead, <b>pseudo technologies represent natural processes such as the release of nutrients into the soil</b>. For example, when struvite, a phosphorus-based fertilizer, is applied to crop fields, the crops do not use the struvite directly. Instead, the struvite releases phosphorus, and the phosphorus is then taken up by crops. ADAM defines this process through a pseudo technology that transforms struvite into phosphorus.
 </p>
 
 <br>
@@ -150,15 +137,13 @@ Now try to interpert this example supply file on your own:
 The common headers and their descriptions for the technology site file are explained below: 
 </p>
 
-
 | Header Symbol | Description |
 | ------------- | ------------- | 
 | # | Name of the technology site node (up to user preference). |
 | Latitude | The latitude coordinate at which the node is located. <br> A **positive** number indicates **North**, and a **negative** number indicates **South**. |
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Tech ID | The technology identification code that corresponds to the technology at the specified location. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
-| Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthy, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: the type of product used as input for each technology can be looked up in the technology database__* |
-
+| Capacity | The maximum amount of product that can be processed at a time (e.g. 1000 tonnes per year). <br> The time basis (i.e. daily, monthly, yearly) is chosen during the first step of creating a new model in ADAM.  <br> *__note: the type of product used as input for each technology can be looked up in the technology database__* |
 
 <br> 
 
@@ -166,8 +151,7 @@ The common headers and their descriptions for the technology site file are expla
 Here is how it would look in a technology site file used in ADAM:
 </p>
 
-
-| # |	Latitude | Longitude | Tech ID | Capacity |
+| # |   Latitude | Longitude | Tech ID | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | ts1 | 41.434208 | -86.876593 | t33 | 10000 |
 | ... | ... | ... | ... | ... |
@@ -179,16 +163,14 @@ Here is how it would look in a technology site file used in ADAM:
 <br>
 
 <p>
-    Now try to interpert this example technology site file on your own: 
+    Now try to interpret this example technology site file on your own: 
 </p>
 
-
-| # |	Latitude | Longitude | Tech ID | Capacity |
+| # |   Latitude | Longitude | Tech ID | Capacity |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | ... | ... | ... | ... | ... |
 | ts23 | 39.045753 | -76.641273 | t60 | 150000 |
 | ... | ... | ... | ... | ... |
-
 
 <details> 
   <summary>Click here to check your answer</summary>
@@ -207,7 +189,6 @@ Here is how it would look in a technology site file used in ADAM:
 The common headers and their descriptions for the technology candidate file are explained below: 
 </p>
 
-
 | Header Symbol | Description |
 | ------------- | ------------- | 
 | # | Name of the technology candidate node (up to user preference). |
@@ -215,18 +196,15 @@ The common headers and their descriptions for the technology candidate file are 
 | Longitude | The longitude coordinate at which the node is located. <br> A **positive** number indicates **East**, and a **negative** number indicates **West**. |
 | Tech ID | The technology identification code that corresponds to the technology that **could** be installed. <br>*__note: the technology codes can be looked up in the ADAM technology database.__* |
 
-
 <br>
 <p>
 Here is how it would look in a technology candidate file used in ADAM:
 </p>
 
-
-| # |	Latitude | Longitude | Tech ID |
+| # |   Latitude | Longitude | Tech ID |
 | ------------- | ------------- | ------------- | ------------- |
 | tc1 | 43.61586956 | -95.8516807 | t15 |
 |...| ...| ...| ...|
-
 
 <p>
 This entry, <b>tc1</b>, is saying that <b>it is possible for t15 to be installed at location 43.61586956 N, 95.8516807 W.</b><br>
@@ -239,8 +217,7 @@ This entry, <b>tc1</b>, is saying that <b>it is possible for t15 to be installed
 Now try to interpret this example technology candidate file on your own: 
 </p>
 
-
-| # |	Latitude | Longitude | Tech ID |
+| # |   Latitude | Longitude | Tech ID |
 | ------------- | ------------- | ------------- | ------------- |
 |...| ...| ...| ...|
 | tc6 | 43.61586956 | -95.8516807 | t15 |
@@ -248,7 +225,6 @@ Now try to interpret this example technology candidate file on your own:
 | tc8 | 43.61586956 | -95.8516807 | t23 |
 | tc9 | 39.045753 | -76.641273 | t15 |
 |...| ...| ...| ...|
-
 
 <details> 
   <summary>Click here to check your answer</summary>
@@ -263,3 +239,4 @@ Now try to interpret this example technology candidate file on your own:
 <br>
 
 <a href="/ADAM_Documentation/dashboard_new_model.md">Next: Making a New Model from Scratch</a>
+

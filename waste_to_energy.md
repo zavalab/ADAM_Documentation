@@ -3,7 +3,7 @@
 <h2>Background</h2>
 
 <p>
-    Cattle manure from CAFOs contribute to air pollution and water pollution through the emission of greenhouse gases and nutrient runoff to surrounding bodies of water. Rather than simply disposing of the waste and allowing it to generate pollutants, we can process this waste into bio-electricity. 
+    Cattle manure from CAFOs contributes to air pollution and water pollution through the emission of greenhouse gases and nutrient runoff to surrounding bodies of water. Rather than simply disposing of the waste and allowing it to generate pollutants, we can process this waste into bio-electricity. 
 </p>
 
 <p>
@@ -15,7 +15,7 @@
 <br>
 
 <p>
-    The technology sites contain anaerobic digestion and electricity generation technologies (shown below) which are able to process cow manure into bio-electricity and digestate. The digestate is a waste product that can be applied to cropfields or disposed, and the bio-electricity can be sold to and used by customers. 
+    The technology sites contain anaerobic digestion and electricity generation technologies (shown below) which can process cow manure into bio-electricity and digestate. The digestate is a waste product that can be applied to crop fields or disposed of, and the bio-electricity can be sold to and used by customers. 
 </p>
 
 <img src="Pictures\waste_to_energy\tech.png">
@@ -33,7 +33,6 @@
 <p>
     In this case study, we will analyze the effect of three different electricity prices: low price, market price, and high price.
 </p>
-
 
 <h2>Low Electricity Price</h2>
 
@@ -54,7 +53,7 @@
 </p>
 
 <p>
-    The results, which are displayed below, shows identical results to the Low Electricity Price scenario. This demonstrates that current electricity prices are still not high enough to incentivize CAFOs to process their waste. 
+    The results, which are displayed below, show identical results to the Low Electricity Price scenario. This demonstrates that current electricity prices are still not high enough to incentivize CAFOs to process their waste. 
 </p>
 
 <img src="Pictures\waste_to_energy\market_elec.png">
@@ -62,7 +61,7 @@
 <h2>High Electricity Price</h2>
 
 <p>
-    The final case we will look at is the high electricity price scneario. The results, which are displayed below, show that two out of the three CAFOs are now willing to process at least part of their waste. You may hover over the transportation routes to see how much of each product is being transported. 
+    The final case we will look at is the high electricity price scenario. The results, which are displayed below, show that two out of the three CAFOs are now willing to process at least part of their waste. You may hover over the transportation routes to see how much of each product is being transported. 
 </p>
 
 <img src="Pictures\waste_to_energy\high_elec.png">
@@ -72,7 +71,7 @@
 </p>
 
 <p>
-    Using the cow manure, Tech1 is able to generate 300,000 kWh of bioelectricity per year, and Tech2 is able to generate 467,600 kWh of bioelectricity per year. The disgestate waste product is sent to a waste disposal facility.
+    Using cow manure, Tech1 is able to generate 300,000 kWh of bioelectricity per year, and Tech2 is able to generate 467,600 kWh of bioelectricity per year. The digestate waste product is sent to a waste disposal facility.
 </p>
 
 <p>
@@ -86,6 +85,7 @@
 </p>
 
 <p>
-    From the results, we can determine that low electricity price and current market price are not enough incentive for CAFOs to process their waste into energy. In both of those scenarios, all CAFOs decided to dispose of their waste rather than process it. Only when high prices are applied that CAFOs will begin to process part of their waste into bio-electricity. 
+    From the results, we can determine that low electricity prices and current market prices are not enough incentives for CAFOs to process their waste into energy. In both of those scenarios, all CAFOs decided to dispose of their waste rather than process it. Only when high prices are applied that CAFOs will begin to process part of their waste into bio-electricity. 
 </p>
+
 
