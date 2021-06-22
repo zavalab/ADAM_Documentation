@@ -17,7 +17,7 @@
 </p>
 
 <p>
-    Notice that the model status is <b>Data Required</b>. That is because only steps 1 - 4 are completed for a copied model. You may click through the completed steps to view the model data, but in order to run the model, you must complete step 5. Do this by selecting <b>Generate Transportation Routes</b>. The other options will be explained in the next tutorial.
+    Notice that the model status is <b>Data Required</b>. That is because only steps 1 - 4 are completed for a copied model. You may click through the completed steps to view the model data, but to run the model, you must complete step 5. Do this by selecting <b>Generate Transportation Routes</b>. The other options will be explained in the next tutorial.
 </p>
 
 <img src="Pictures\Dashboard_tutorials\run_model\step5.png">
@@ -51,7 +51,7 @@
 <h2>3) View Results</h2>
 
 <p>
-    The results will show a summary of the economic performance of the system, along with a section for downloading the results (in the form of csv files), and a link to the visualization tool. Note that the system includes the supply, demand, technology, and transportation data. 
+    The results will show a summary of the economic performance of the system, along with a section for downloading the results (in the form of CSV files), and a link to the visualization tool. Note that the system includes the supply, demand, technology, and transportation data. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\run_model\results.png">

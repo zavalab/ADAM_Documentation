@@ -13,7 +13,7 @@
 <img src="Pictures\Dashboard_tutorials\new_model\model_list.png">
 
 <p>
-    You will be prompted to enter the model name and description. The description of the model should provide a brief overview on the purpose of the model or what problem it is attempting to solve. 
+    You will be prompted to enter the model name and description. The description of the model should provide a brief overview of the purpose of the model or what problem it is attempting to solve. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\enter_info.png">
@@ -27,7 +27,7 @@
 <h2>Entering information in the Model</h2>
 
 <p>
-    Clicking on the model will bring you into a progress bar screen with a row of buttons labeled from step 1 through 6 and another row of buttons with various options. 
+    Clicking on the model will bring you into a progress bar screen with a row of buttons labeled from steps 1 through 6 and another row of buttons with various options. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\progress_bar.png">
@@ -39,7 +39,7 @@
 <h2>Step 1 - Model Type</h2>
 
 <p>
-    Begin inputing data by selecting <b>Step 1</b>. You will be taken to a page where you can define the model type and the time basis. 
+    Begin inputting data by selecting <b>Step 1</b>. You will be taken to a page where you can define the model type and the time basis. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step1.png">
@@ -49,7 +49,7 @@
 </p>
 
 <p>
-    The time basis is up to you. Just keep in mind that you will need to have your data in terms of that time basis; additionally, the results will be in the selected time units.
+    The time basis is up to you. Just keep in mind that you will need to have your data in terms of your selected time basis; additionally, the results will be in the selected time units.
 </p>
 
 <p>
@@ -95,19 +95,19 @@
 <img src="Pictures\Dashboard_tutorials\new_model\step3.png">
 
 <p>
-    Then, click <b>Next</b> in order to save the technology data and proceed to the next step. 
+    Then, click <b>Next</b> to save the technology data and proceed to the next step. 
 </p>
 
 <h2>Step 4 - Demand Data</h2>
 
 <p>
-    Similar to the supply and technology data, we will upload a csv file containing the demand data in step 4. After uploading the example, the model should look like this:
+    Similar to the supply and technology data, we will upload a CSV file containing the demand data in step 4. After uploading the example, the model should look like this:
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step4.png">
 
 <p>
-    Then click <b>Next</b> to save the demand data and proceeed to the next step. 
+    Then click <b>Next</b> to save the demand data and proceed to the next step. 
 </p>
 
 <h2>Step 5 - Transport Data</h2>
@@ -117,7 +117,7 @@
 </p>
 
 <p>
-    The digestate pathways overlap the bio-electricity pathways so in order to view the bio-electricity pathways, you may have to toggle some of the data layers. 
+    The digestate pathways overlap the bio-electricity pathways so you may have to toggle some of the data layers in order to view the bio-electricity pathways. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step5.png">
@@ -127,7 +127,7 @@
 </p>
 
 <p>
-    After generating transportation routes, you can now use the distance filter option. This allows you to limit the tranportation pathways to those within a certian distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
+    After generating transportation routes, you can now use the distance filter option. This allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\dist_filter.png">

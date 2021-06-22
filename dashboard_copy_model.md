@@ -1,7 +1,7 @@
 <h1>Making a Copy of a Published Case Study</h1>
 
 <p>
-    The case studies section of the dashboard contains published case studies which are already defined and solved. In addition to viewing these case studies and their results, you can make copies of these case studies and try running them for yourself.
+    The case studies section of the dashboard contains published case studies that are already defined and solved. In addition to viewing these case studies and their results, you can make copies of these case studies and try running them for yourself.
 </p>
 
 <p>
@@ -46,7 +46,7 @@
 <h2>Step 3: Locating the copied model</h2>
 
 <p>
-    Click <b>Manage Models</b> on the dashboard homepage. You will then be taken to the Model list. There you will find the copy of the case study. 
+    Click <b>Manage Models</b> on the dashboard homepage. You will then be taken to the Model list. There you will find a copy of the case study. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\copy_model\manage_models.png">

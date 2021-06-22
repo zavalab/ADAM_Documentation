@@ -1,7 +1,7 @@
 <h1>Editing the Model</h1>
 
 <p>
-    Now that you have learned how to make a copy and run a case study, we will now go over how to edit the information in the case study. Knowing how to edit a case study allows you to make alterations to the case study as you please in order to explore different scenarios. 
+    Now that you have learned how to make a copy and run a case study, we will now go over how to edit the information in the case study. Knowing how to edit a case study allows you to make alterations to the case study as you please.
 </p>
 
 <p>
@@ -11,7 +11,7 @@
 <h2>Step 1 - Model Type</h2>
 
 <p>
-    Step 1 is where the model type and time basis are defined. For a copied model, you should leave the model type and time basis as is. Running a model as a mamagement-type model will give different result files than running the model as a design-type model. As a rule of thumb, design-type models have technology candidates whereas management-type models do not. 
+    Step 1 is where the model type and time basis are defined. For a copied model, you should leave the model type and time basis as is. Running a model as a management-type model will give different result files than running the model as a design-type model. As a rule of thumb, design-type models have technology candidates whereas management-type models do not. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step1.png">
@@ -29,7 +29,7 @@
 <img src="Pictures\Dashboard_tutorials\edit_model\step2.png">
 
 <p>
-    In addition to editing existing nodes, you may also add new data. <b>Upload Data</b> is used when you have a csv file containing data points you would like to add. Otherwise, you can add a singular node by selecting <b>Manual Entry</b> and then filling out the required information. <b>Load from Model</b> allows you to select other models from your model list and import their data into this model. 
+    In addition to editing existing nodes, you may also add new data. <b>Upload Data</b> is used when you have a CSV file containing data points you would like to add. Otherwise, you can add a singular node by selecting <b>Manual Entry</b> and then filling out the required information. <b>Load from Model</b> allows you to select other models from your model list and import their data into this model. 
 </p>
 
 <p>
@@ -39,7 +39,7 @@
 </p>
 
 <p>
-    If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. If you want to delete a single node, you can right click on the node. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
+    If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. If you want to delete a single node, you can right-click on the node. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
 </p>
 
 <h2>Step 5 - Transport Data</h2>
@@ -59,7 +59,7 @@
 </p>
 
 <p>
-    After generating transportation routes, you can now use the distance filter option. This allows you to limit the tranportation pathways to those within a certian distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
+    After generating transportation routes, you can now use the distance filter option. This allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step5_filter.png">

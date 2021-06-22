@@ -7,7 +7,7 @@
 <h2>Upload Data</h2>
 
 <p>
-    The first option we will go over is the <b>Upload Data</b> option. This option allows you to upload many data points at once by uploading a csv file. 
+    The first option we will go over is the <b>Upload Data</b> option. This option allows you to upload many data points at once by uploading a CSV file. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\input_data\upload_data.png">

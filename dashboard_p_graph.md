@@ -17,7 +17,7 @@
 <img src="Pictures\Dashboard_tutorials\p_graph\ex_1.png">
 
 <p>
-    In this example, the raw material can go through technology 1 or technology 2. Technology 1 produces a final product, which can then be sold to customers. Technology 2 produces an intermediate product, which can be futher processed via technology 3, and it produces a different final product than technology 1. 
+    In this example, the raw material can go through technology 1 or technology 2. Technology 1 produces a final product, which can then be sold to customers. Technology 2 produces an intermediate product, which can be further processed via technology 3, and it produces a different final product than technology 1. 
 </p>
 
 <h2>Nutrient Pollution Control Example</h2>
@@ -29,7 +29,7 @@
 <img src="Pictures\nutrient_pol\process_graph.png">
 
 <p>
-    In this example, raw manure can go through solid liquid separation (SLS) technology or P Release technology. SLS produces two intermediate products, the solid component can be futher processed into pellets while the liquid component can go through P release technology to generate phosphorus. 
+    In this example, raw manure can go through solid-liquid separation (SLS) technology or P Release technology. SLS produces two intermediate products, the solid component can be further processed into pellets while the liquid component can go through P release technology to generate phosphorus. 
 </p>
 
 <h2>Waste to Energy Example</h2>
