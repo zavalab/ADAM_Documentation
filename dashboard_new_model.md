@@ -164,3 +164,8 @@
     <li><b>Download Model Data</b> - allows you to download all of the input data (supply, technology, demand) in the form of csv files</li>
     <li><b>Get P-Graph</b> - allows you to view the process graph for this system</li>
 </ul>
+
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard.html">Back to Dashboard Tutorials</a>

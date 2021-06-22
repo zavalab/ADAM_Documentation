@@ -86,4 +86,4 @@
 <br>
 <br>
 
-<a href="/ADAM_Documentation/dashboard_edit_model.html">Return to Editing the Model Tutorial</a>
+<a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>

@@ -126,8 +126,10 @@
     The installment results file is only generated for design-type models, so the Waste to Energy example does not have an installment results file. Instead, we will show an example installment results file from another model. 
 </p>
 
+<img src="Pictures\Dashboard_tutorials\results\installment_results.png">
+
 <p>
-    TODO: ADD OTHER EXAMPLE
+    In this example, nodes n1, n2, and n3 all have installed technology t1. The capacity indicates how much product is being processed at that technology site. 
 </p>
 
 <h3>Results Summary File</h3>
@@ -193,3 +195,8 @@
 </p>
 
 <img src="Pictures\Dashboard_tutorials\results\vis_price.png">
+
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>

@@ -39,3 +39,8 @@
 </p>
 
 <img src="Pictures\Dashboard_tutorials\p_graph\waste_to_energy_p_graph.png">
+
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>

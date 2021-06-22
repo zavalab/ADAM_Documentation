@@ -65,3 +65,8 @@
 </p>
 
 <img src="Pictures\Dashboard_tutorials\visualization_tool\hybrid.png">
+
+<br>
+<br>
+
+<a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>
