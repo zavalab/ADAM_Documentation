@@ -1,5 +1,5 @@
-# ADAM_Tutorial
+# ADAM Documentation
 
-ADAM Tutorial is a GitHub page designed to help users learn how to navigate and use the web-based tool, ADAM. 
+ADAM Documentation is a GitHub page designed to help users learn how to navigate and use the web-based tool, ADAM. 
 
 The GitHub repository attached to the page also contains downloadable files that can be used for ADAM. 
