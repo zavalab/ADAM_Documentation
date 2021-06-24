@@ -60,14 +60,14 @@
 
 <p>
     Step 2 is where you can add supply data to the model. Use the first three options to upload data. For a review on how each option works, please refer to the 
-<a href="/ADAM_Documentation/dashboard_input_data.md">Adding Data to a Model Tutorial</a>.
+<a href="/ADAM_Documentation/dashboard_input_data.html">Adding Data to a Model Tutorial</a>.
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step2.png">
 
 <p>
     For this example, we will be using the files located at 
-<a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Example">this link</a>. After uploading the example supply file, the model should look like this: 
+<a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/example_custom_model">this link</a>. After uploading the example supply file, the model should look like this: 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step2_data.png">

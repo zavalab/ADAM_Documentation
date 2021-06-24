@@ -19,6 +19,8 @@
 <h3>Other</h3>
 <a href="/ADAM_Documentation/input_files.html">The input files needed for ADAM</a>
 <br>
+<a href="/ADAM_Documentation/dashboard_input_data.html">Adding Data to a Model</a>
+<br>
 <a href="/ADAM_Documentation/dashboard_results.html">Interpreting the Results</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_vis_tool.html">Using the Visualization Tool</a>

@@ -61,7 +61,7 @@
 
 <p>
     Now that you have been introduced to each of the file types, we will use the Waste to Energy, Low Electricity Price scenario to explain each file in more detail. For this example, you can download the result files 
-<a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/waste_to_energy_low_price_results">here</a>. 
+<a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/waste_to_energy_low_price_results">here</a>. 
 </p>
 
 <h3>Clearing Prices File</h3>

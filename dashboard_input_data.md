@@ -16,7 +16,7 @@
 
 <p>
     After selecting <b>Upload Data</b>, browse to the desired file and click <b>Upload</b>. The csv file that we will be using in this example can be found and downloaded 
-<a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Example">here</a>.
+<a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/example_custom_model">here</a>.
 </p>
 
 <img src="Pictures\Dashboard_tutorials\input_data\upload_file.png">
@@ -37,7 +37,7 @@
 
 <p>
     For more information on the csv files and the data that it contains, please refer the 
-<a href="">Input Files</a> tutorial. This tutorial also contains a link where you can download template files for ADAM. 
+<a href="input_files.html">Input Files</a> tutorial. This tutorial also contains a link where you can download template files for ADAM. 
 </p>
 
 

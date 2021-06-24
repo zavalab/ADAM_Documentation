@@ -33,8 +33,8 @@
 </p>
 
 <p>
-    For more detailed information on adding new data, please go to 
-<a href="/ADAM_Documentation/dashboard_input_data.html">this tutorial</a>.
+    For more detailed information on adding new data, please go to the
+<a href="/ADAM_Documentation/dashboard_input_data.html">Adding Data to a Model Tutorial</a>.
     
 </p>
 
