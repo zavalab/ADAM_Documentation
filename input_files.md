@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    Templates for each type of file are provided <a href="https://github.com/mshen42/ADAM_Documentation/tree/main/Downloadable_content/Templates">here.</a>
+    Templates for each type of file are provided <a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/Templates">here.</a>
 </p>
 
 ## Supply File 
@@ -238,5 +238,5 @@ Now try to interpret this example technology candidate file on your own:
 <br>
 <br>
 
-<a href="/ADAM_Documentation/dashboard_new_model.md">Next: Making a New Model from Scratch</a>
+<a href="dashboard.html">Return to Dashboard Tutorials</a>
 
