@@ -3,7 +3,7 @@
 <h2>Welcome to the Dashboard Tutorial!</h2>
 <img src="Pictures\ADAM_graphic.png">
 <p>
-    This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the first set of tutorials in order to get familiar with ADAM. 
+    This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through <b>Using published case studies to make a new model</b> in order to get familiar with ADAM. 
 </p>
 
 <h2>Contents:</h2>
