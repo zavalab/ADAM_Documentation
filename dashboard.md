@@ -6,6 +6,8 @@
     This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through <b>Using published case studies to make a new model</b> in order to get familiar with ADAM. 
 </p>
 
+<br>
+
 <h2>Contents:</h2>
 
 <h3>ADAM Basics</h3>
