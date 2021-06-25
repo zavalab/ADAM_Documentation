@@ -41,7 +41,7 @@
 <h3>Straight Line Mapping Style</h3>
 
 <p>
-    If you select the Straight Line mapping style, the flow data is represented as straight lines from one node to another. You may hover over the lines to display the distance and flow data. 
+    If you select the <b>Straight Line</b> mapping style, the flow data is represented as straight lines from one node to another. You may hover over the lines to display the distance and flow data. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\visualization_tool\straight.png">
@@ -53,7 +53,7 @@
 <h3>Routing Mapping Style</h3>
 
 <p>
-    If you select the Routing mapping style, the visualization tool will display the shortest routes that a vehicle will take to get from one node to another. This method of mapping provides a much more accurate view of the transport pathways.
+    If you select the <b>Routing</b> mapping style, the visualization tool will display the shortest routes that a vehicle will take to get from one node to another. This method of mapping provides a much more accurate view of the transport pathways.
 </p>
 
 <img src="Pictures\Dashboard_tutorials\visualization_tool\routing.png">
@@ -61,7 +61,7 @@
 <h3>Hybrid Mapping Style</h3>
 
 <p>
-    In a hybrid mapping style, the flow pathways are displayed in a Straight Line mapping method, but you can also hover over the straight lines and click in order to toggle the routing pathways. This method of mapping combines the Straight Line and Hybrid mapping methods, and it displays the most information. 
+    In a <b>hybrid</b> mapping style, the flow pathways are displayed in a Straight Line mapping method, but you can also hover over the straight lines and click in order to display the routing pathways. This method of mapping combines the Straight Line and Hybrid mapping methods, and it displays the most information. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\visualization_tool\hybrid.png">

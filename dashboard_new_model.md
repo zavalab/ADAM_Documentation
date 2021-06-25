@@ -1,7 +1,8 @@
 <h1>Making a New Model from Scratch</h1>
 
 <p>
-    After understanding all of the files needed to make a model in ADAM, lets now go over how to use those files to create a new model.  
+    In this tutorial, we will use the data files located at 
+<a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/example_custom_model">this link</a> to demonstrate how to make your own model from scratch. 
 </p>
 
 <h2>Creating a new Model</h2>
@@ -36,6 +37,11 @@
     The first row of buttons is where you will go to enter information about the model. The second row of buttons gives you options for what you can do with the model. It is best to use these options once the model data is complete. 
 </p>
 
+<p>
+    For a custom model, you will need to create your own supply, demand, technology site, and technology candidate files. Please review the 
+<a href="input_files.html">Input Files Tutorial</a> for information on each file type. 
+</p>
+
 <h2>Step 1 - Model Type</h2>
 
 <p>
@@ -45,11 +51,11 @@
 <img src="Pictures\Dashboard_tutorials\new_model\step1.png">
 
 <p>
-    The default model type is a <b>Supply Chain Design</b> type model, and the default time basis is <b>Year</b>. A design type model is used when your data contains technology candidates, and you would like to determine whether to build a technology or not.
+    The default model type is a <b>Supply Chain Design</b> type model, and the default time basis is <b>Year</b>. A design-type model is used when your data contains technology candidates, otherwise a management-type model is used. 
 </p>
 
 <p>
-    The time basis is up to you. Just keep in mind that you will need to have your data in terms of your selected time basis; additionally, the results will be in the selected time units.
+    The time basis is up to you. Just keep in mind that you will need to have your data in the units of your selected time basis; additionally, the results will be in the selected time units.
 </p>
 
 <p>
@@ -66,8 +72,7 @@
 <img src="Pictures\Dashboard_tutorials\new_model\step2.png">
 
 <p>
-    For this example, we will be using the files located at 
-<a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/example_custom_model">this link</a>. After uploading the example supply file, the model should look like this: 
+    After uploading the example supply file, the model should look like this: 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\step2_data.png">
@@ -127,7 +132,7 @@
 </p>
 
 <p>
-    After generating transportation routes, you can now use the distance filter option. This allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
+    After generating transportation routes, you can now use the distance filter option. This is an optional step that allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\dist_filter.png">

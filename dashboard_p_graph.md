@@ -1,23 +1,27 @@
 <h1>Process Graph (P-Graph)</h1>
 
 <p>
-    As long as you have technology data inputted in the model, you can access the Process graph. A process graph is a diagram that contains all possible combinations of the technologies and products in the system. This allows you to quickly and easily identify all potential supply chain pathways. 
+    As long as you have technology data inputted in the model, you can access the Process graph. A process graph is a diagram that contains all possible combinations of the technologies and products in the system. This allows you to quickly and easily identify all potential supply chain pathways. P-Graphs consist of raw materials, intermediate products, final products, and technologies. 
 </p>
 
 <p>
-    In a process diagram, raw materials are depicted as yellow circles, technologies are depicted as gray rectangles, intermediate products are depicted as blue circles, and final products are depicted as green circles.  
+    <b>Raw Materials</b> are unprocessed materials used to make other products (e.g. milk). <b>Intermediate Products</b> are products that can be used as an input to make other goods (e.g. milk produces cheese which can then be used to make pizza. Cheese is an intermediate product). <b>Final Products</b> are products that cannot be further processed into a new product (e.g. pizza). <b>Technologies</b> are any equipment or processes that can transform one product to another (e.g. cheese factory)
 </p>
 
-<h2>P-Graph Example</h2>
+<p>
+    In a process diagram, raw materials are depicted as yellow circles, technologies are depicted as gray rectangles, intermediate products are depicted as blue circles, and final products are depicted as green circles. 
+</p>
+
+<h2>Dairy Supply Chain Example</h2>
 
 <p>
-    The example below shows a p-graph for a generic system containing three technologies. 
+    The example below shows a p-graph for a milk processing supply chain containing three technologies. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\p_graph\ex_1.png">
 
 <p>
-    In this example, the raw material can go through technology 1 or technology 2. Technology 1 produces a final product, which can then be sold to customers. Technology 2 produces an intermediate product, which can be further processed via technology 3, and it produces a different final product than technology 1. 
+    Milk can go through the Ice Cream Factory and be made into ice cream, or it can go through the Cheese Factory and be made into cheese. Ice cream is a final product which can be directly sold to the customer, while the cheese can further be processed by the Pizza Factory to make Pizza. Pizza is a final product that can be sold directly to customers.
 </p>
 
 <h2>Nutrient Pollution Control Example</h2>
@@ -29,7 +33,7 @@
 <img src="Pictures\nutrient_pol\process_graph.png">
 
 <p>
-    In this example, raw manure can go through solid-liquid separation (SLS) technology or P Release technology. SLS produces two intermediate products, the solid component can be further processed into pellets while the liquid component can go through P release technology to generate phosphorus. 
+    In this example, raw manure can go through solid-liquid separation (SLS) technology or P Release technology. SLS produces two intermediate products, the solid component can be further processed into pellets while the liquid component can go through P release technology to generate phosphorus. The P release technology can take in raw manure, liquid manure, or solid manure and produces Phosphorus. 
 </p>
 
 <h2>Waste to Energy Example</h2>

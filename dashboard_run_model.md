@@ -13,7 +13,7 @@
 <img src="Pictures\Dashboard_tutorials\run_model\copied_model.png">
 
 <p>
-    The steps in the progress bar are as follows: (1) Define model type, (2) Add supply data, (3) Add technology data, (4) Add demand data, (5) Add transportation data, (6) Run model. For more information about each step, please refer to the tutorial. 
+    The steps in the progress bar are as follows: (1) Define model type, (2) Add supply data, (3) Add technology data, (4) Add demand data, (5) Add transportation data, (6) Run model. For more information about each step, please refer to the tutorial documentation. 
 </p>
 
 <p>

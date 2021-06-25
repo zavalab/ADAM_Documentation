@@ -3,11 +3,11 @@
 <h2>Background</h2>
 
 <p>
-    In the energy incentive case study, we have a system of CAFOs. Each CAFO is simultaneously a supply node, demand node, and a technology candidate. These CAFOs are suppliers of cow manure, demanders for bio-electricity along with manure derivatives, and are technology candidates for Anaerobic Digestion and Electricity generation technology.
+    In the energy incentive case study, we have a system of CAFOs. Each CAFO is simultaneously a supply node, demand node, and a technology candidate. These CAFOs are suppliers of cow manure, demanders of bio-electricity and manure derivatives, and are technology candidates for Anaerobic Digestion and Electricity generation technology.
 </p>
 
 <p>
-    The goal of this model is to encourage farms to build technologies and use those technologies to recover energy from waste. Doing this is much more sustainable than simply purchasing electricity from another source. Unlike the Waste to Energy case study which already had existing technology sites, the Energy Incentive case study has to determine whether it is worth it to build technologies or not. This gives the Energy Incentive case study an additional cost barrier to worry about: the investment cost of the technology. 
+    The goal of this model is to encourage farms to build technologies and use those technologies to recover energy from waste. Doing this is much more sustainable than simply purchasing electricity from another source. Unlike the Waste to Energy case study, which already had existing technology sites, the Energy Incentive case study does not have any technology sites built; it must determine whether it is worth it to build technologies. This gives the Energy Incentive case study an additional cost barrier to worry about: the investment cost of the technology. 
  </p>
 
  <p>
