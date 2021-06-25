@@ -1,7 +1,7 @@
 <h1>Making a Copy of a Published Case Study</h1>
 
 <p>
-    The case studies section of the dashboard contains published case studies that are already defined and solved. In addition to viewing these case studies and their results, you can make copies of these case studies and try running them for yourself.
+    The case studies section of the dashboard contains published case studies that are already defined and solved. In addition to viewing these case studies and their results, you can make copies of these case studies, edit them, and try running them for yourself.
 </p>
 
 <p>

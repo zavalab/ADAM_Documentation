@@ -3,17 +3,14 @@
 <h2>Background information</h2>
 
 <p>
-  In a custom model, you can provide information about the supply, demand, and technologies of your system. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will determine whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
+  In a custom model, you can define the supply, demand, and technologies. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will decide whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
 </p>
 
 <br>
 
 <h2>Outline</h2>
 
-<p>In order to navigate to the custom model example, click the <b>Tutorial</b> on the top right and select the <b>Custom Model</b> option. The first screen you encounter is the <b>Outline Page</b>. This page provides an overview of the steps we will go over during the tutorial. 
-</p>
-
-<p>You may select any of the icons to jump to that part of the tutorial. For first-time users, we reccomend selecting the <b>Preliminary - Input Data</b> step.</p>
+<p>The first screen you encounter is the <b>Outline Page</b>. This page provides an overview of the steps we will go over during the tutorial. We reccomend going through the tutorial in order. Do this by selecting the <b>Input Data</b> step.</p>
 
 <img src = "Pictures\custom_model\outline.png">
 
@@ -28,11 +25,11 @@
 </p>
 
 <p>
- In the biogas from waste example, the technology data only included information about existing technology sites. This makes sense since the Biogas from Waste model is a management-type model; however, for a design-type model, we must also consider <b>technology candidates</b>, sites where technologies could potentially be built. 
+ In the biogas from waste example, the technology data only included information about existing technology sites; however, for a design-type model, we must also consider <b>technology candidates</b>, sites where technologies could potentially be built. 
 </p>
 
 <p>
-  All other inputs are the same as the biogas from waste example except the suppliers and customers are generic; the suppliers do not need to be CAFOs that supply cattle waste and the consumers do not need to be the same as the ones in the biogas from waste example. 
+  All other inputs are the same as the biogas from waste example except the suppliers and customers are generic; the suppliers do not need to be CAFOs and the consumers do not need to be the same as the ones in the biogas from waste example. 
 </p>
 
 <br>
