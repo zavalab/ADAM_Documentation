@@ -6,6 +6,8 @@
 
 <h2>Navigating the Technology Database</h2>
 
+<h2>Adding Your Own Technology</h2> 
+
 <!--
     TODO: ADD INFO ABOUT TECH DATABASE 
 

@@ -3,7 +3,7 @@
 <h2>Background information</h2>
 
 <p>
-  In a custom model, you can define the supply, demand, and technologies. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will decide whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
+  In a custom model, you can define the supply, demand, and technology data to specify the problem you want to solve. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will decide whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
 </p>
 
 <br>
@@ -183,7 +183,7 @@ Your browser does not support the video.
 <img src="Pictures\custom_model\results.png">
 
 <p>
-  Please try moving and editing points on your own to get familiar with ADAM! 
+  Please try going through the custom model tutorial on your own to get familiar with ADAM! 
 </p>
 
 

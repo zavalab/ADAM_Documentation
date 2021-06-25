@@ -2,7 +2,7 @@
 
 <h2>Background Information</h2> 
 
-<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by technology sites. These technology sites use anaerobic digestion to produce biogas. This biogas is then purchased by customers or used by the technology site locally.</p>
+<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by technology sites. These technology sites use anaerobic digestion to produce biogas. This biogas is then purchased by customers or locally used by the technology site.</p>
 
 <img src="Pictures\biogas_from_waste_ex\process.png">
 
@@ -26,7 +26,7 @@
 
 <p>The first page of the tutorial gives you information about the input data needed for ADAM. This input data consists of supply data, demand data, technology data, and transportation data.</p>
 
-<img src="Pictures\biogas_from_waste_ex\prelim.png">
+<img src="Pictures\biogas_from_waste_ex\input.png">
 
 <h5>The Supplier Data</h5>
 
@@ -40,7 +40,7 @@
 
 <h5>The Technology Data</h5>
 
-<p><b>Technologies are any construct that can transform one product into another</b>. In the context of biogas from waste, the technology being used is an anaerobic digester that uses cattle manure to produce biogas (main product) and digestate (a waste product). The technology data includes the location and type of technology installed. 
+<p><b>Technologies are any equipment, factory, or process that can transform one product into another</b>. In the context of biogas from waste, the technology being used is an anaerobic digester that uses cattle manure to produce biogas (main product) and digestate (a waste product). The technology data includes the location and type of technology installed. 
 </p>
 
 <h5>The Transportation Data</h5>
@@ -67,7 +67,7 @@
 <img src="Pictures\biogas_from_waste_ex\step2.png">
 
 <p>
-    After defining the model type and time basis, we can now add supplier data. In this example, there are three suppliers (CAFOs) which are indicated by the yellow markers on the map.
+    After defining the model type and time basis, we can now add supplier data. In this example, there are three suppliers which are indicated by the yellow markers on the map.
 </p>
 
 <p>
@@ -172,7 +172,7 @@
 
 <h3>Output Data</h3>
 
-<img src = "Pictures\biogas_from_waste_ex\prelim_output.png">
+<img src = "Pictures\biogas_from_waste_ex\output.png">
 
 <p>After we give ADAM all of the input data, ADAM will generate output data which includes information about the flow, transportation, and value data. 
 </p>

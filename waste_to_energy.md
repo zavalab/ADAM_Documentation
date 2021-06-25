@@ -3,11 +3,11 @@
 <h2>Background</h2>
 
 <p>
-    Cattle manure from CAFOs contributes to air pollution and water pollution through the emission of greenhouse gases and nutrient runoff to surrounding bodies of water. Rather than simply disposing of the waste and allowing it to generate pollutants, we can process this waste into bio-electricity. 
+    Cattle manure from CAFOs contributes to air and water pollution through the emission of greenhouse gases and nutrient runoff to surrounding bodies of water. Rather than simply disposing of the waste and allowing it to generate pollutants, we can process this waste into bio-electricity. 
 </p>
 
 <p>
-    The Waste to Energy case study is a management-type model involving a system of CAFOs, technology sites, and demand nodes. The CAFOs act as the suppliers of cow manure. They can choose to either process the cow manure at a technology site or dispose of it. 
+    The Waste to Energy case study is a management-type model involving a system of CAFOs, technology sites, and demand nodes. The CAFOs act as the suppliers of cow manure. They can choose to either process the cow manure at a technology site or dispose of it at a disposal facility. 
 </p>
 
 <img src="Pictures\waste_to_energy\map.png">
@@ -15,7 +15,7 @@
 <br>
 
 <p>
-    The technology sites contain anaerobic digestion and electricity generation technologies (shown below) which can process cow manure into bio-electricity and digestate. The digestate is a waste product that can be applied to crop fields or disposed of, and the bio-electricity can be sold to and used by customers. 
+    The technology sites contain anaerobic digestion + electricity generation technologies (shown below) which can process cow manure into bio-electricity and digestate. The digestate is a waste product that can be applied to crop fields or disposed of, and the bio-electricity can be sold to and used by customers. 
 </p>
 
 <img src="Pictures\waste_to_energy\tech.png">
@@ -23,7 +23,7 @@
 <br>
 
 <p>
-    Given this system, the goal of this case study is to determine the amount of waste processed by the technology sites, the amount of bioelectricity produced, and the profitability of the system (i.e. do the earnings outweigh the losses?) at various electricity prices.
+    Given this system, the goal of this case study is to encourage CAFOs to process their waste by applying various electricity prices. 
 </p>
 
 <p>
@@ -43,17 +43,17 @@
 <img src="Pictures\waste_to_energy\low_elec.png">
 
 <p>
-    This indicates that the price of bio-electricity is so low that the CAFOs would rather dispose of the waste rather than process it. If you were to double-click on the CAFOs located on the ADAM website, you would find that the price of supplying the manure is negative for each CAFO, meaning that each CAFO is losing money by supplying waste. Additionally, the disposal facility is purchasing the manure at zero cost. This means that the CAFOs are suffering a loss by simply disposing of the waste. Knowing this, the CAFOs still decided to dispose of their waste, meaning that processing the waste would result in a greater loss.
+    These results indicate that the price of bio-electricity is so low that the CAFOs would rather dispose of the waste rather than process it. If you were to double-click on the CAFOs located on the ADAM website, you would find that the price of supplying the manure is negative for each CAFO, meaning that each CAFO is losing money by supplying waste. Additionally, the disposal facility is purchasing the manure at zero cost. This means that the CAFOs are suffering a loss by simply disposing of the waste. Knowing this, the CAFOs still decided to dispose of their waste, meaning that processing the waste would result in a greater loss.
 </p>
 
 <h2>Market Electricity Price</h2>
 
 <p>
-    The next case we will look at is the market price scenario. Market price indicates that the electricity price is set such that it reflects the actual electricity price.
+    The next case we will look at is the <b>market price</b> scenario. Market price indicates that the electricity price is set such that it reflects the actual electricity price.
 </p>
 
 <p>
-    The results, which are displayed below, show identical results to the Low Electricity Price scenario. This demonstrates that current electricity prices are still not high enough to incentivize CAFOs to process their waste. 
+    The results, which are displayed below, show identical results to the Low Electricity Price scenario: all lines are going to the disposal node. This demonstrates that current electricity prices are still not high enough to incentivize CAFOs to process their waste. 
 </p>
 
 <img src="Pictures\waste_to_energy\market_elec.png">
@@ -71,11 +71,7 @@
 </p>
 
 <p>
-    Using cow manure, Tech1 is able to generate 300,000 kWh of bioelectricity per year, and Tech2 is able to generate 467,600 kWh of bioelectricity per year. The digestate waste product is sent to a waste disposal facility.
-</p>
-
-<p>
-    Since we do not know the exact price of the bio-electricity, we cannot determine whether or not the system is profitable. We can only determine that this situation is one where losses are minimized. If you would like more detailed information regarding the results of this case study, you can make a copy of each scenario in the case study and run the model on your own. 
+    Using the cow manure, Tech1 is able to generate 300,000 kWh of bioelectricity per year, and Tech2 is able to generate 467,600 kWh of bioelectricity per year. The digestate waste product is sent to a waste disposal facility.
 </p>
 
 <h2>Conclusion</h2>
