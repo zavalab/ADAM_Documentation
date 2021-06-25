@@ -8,6 +8,14 @@
 
 <br>
 
+<p>
+    Some of these tutorials contain examples which can be downloaded at 
+<a href="https://github.com/zavalab/ADAM_Documentation/tree/main/Downloadable_content">this link</a>.
+</p>
+
+<br>
+<br>
+
 <h2>Contents:</h2>
 
 <h3>ADAM Basics</h3>
@@ -33,10 +41,5 @@
 <br>
 <a href="tech_database.html">Using the Technology Database - still in progress</a>
 
-<br>
-<br>
 
-<p>
-    Some of these tutorials contain examples which can be downloaded at 
-<a href="https://github.com/zavalab/ADAM_Documentation/tree/main/Downloadable_content">this link</a>.
-</p>
+

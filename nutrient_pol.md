@@ -14,16 +14,16 @@
     This case study applies phosphorus incentives of $0, $0.5, $2.5, and $10 per kg P to determine how much waste is processed and how much phosphorus is recovered.
 </p>
 
-<h2>Process Graph (P-Graph)</h2>
+<h2>Process Graph</h2>
 
 <p>
-    For the Nutrient Pollution Control case study, many products and technologies are interacting with each other. This simplified process graph (P-Graph) helps describe the potential products of the supply chain. 
+    For the Nutrient Pollution Control case study, many products and technologies are interacting with each other. This simplified process graph helps describe the potential products of the supply chain. 
 </p>
 
 <img src="Pictures\nutrient_pol\process_graph.png">
 
 <p>
-    In this system, there are three types of technologies: Solid-Liquid Separation (SLS), Granulation, and P Release. SLS technologies take in raw cow manure and separates it into solid and liquid components. Granulation technologies take in the solid component from SLS technology and create pellets that are used as fertilizers. P Release technologies are pseudo technologies that produce phosphorus from raw, solid, or liquid manure. The result of combining these technologies and products into a single diagram that displays all possible supply chain pathways is a P-Graph. 
+    In this system, there are three types of technologies: Solid-Liquid Separation (SLS), Granulation, and P Release. SLS technologies take in raw cow manure and separates it into solid and liquid components. Granulation technologies take in the solid component from SLS technology and create pellets that are used as fertilizers. P Release technologies are pseudo technologies that produce phosphorus from raw, solid, or liquid manure. The result of combining these technologies and products into a single diagram that displays all possible supply chain pathways is a process graph. 
 </p>
 
 <p>

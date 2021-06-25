@@ -29,7 +29,7 @@
 
 <p id="supply_chain_def"><b>Supply Chain</b> - a system of suppliers, technologies, transportation routes, etc. used to provide a product to the connsumer.</p>
 
-<p id="tech_def"><b>Technology</b> - a construct used to transform one product to another.</p>
+<p id="tech_def"><b>Technology</b> - can be any equipment, factory, or process used to transform one product into another.</p>
 
 <p id="tech_cand_def"><b>Technology Candidate</b> - a location where a technology could be built but has not been built yet; a single location can be a technology candidate for multiple technologies.</p>
 

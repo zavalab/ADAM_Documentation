@@ -27,7 +27,7 @@
 </p>
 
 <p>
-    First, select <b>Go</b>  to enter the visualization tool. Then, select the <b>Upload Data File</b> button, located at the top of the page. 
+    First, select <b>Go</b> to enter the visualization tool. Then, select the <b>Upload Data File</b> button, located at the top of the page. 
 </p>
 
 <img src="Pictures\Dashboard_tutorials\visualization_tool\vis_upload.png">

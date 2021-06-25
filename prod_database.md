@@ -6,6 +6,18 @@
 
 <h2>Navigating the Product Database</h2>
 
+<p>
+    Please select <b>List All Prod</b> in order to view all products in the database. Each product has a product name, a product ID, and an options bar where you can view more information about the product. 
+</p>
+
+<p>
+    
+</p>
+
+<img src="Pictures\Dashboard_tutorials\prod_database\prod_database.png">
+
+<h2>Adding Your Own Product</h2>
+
 <!--
     TODO: ADD INFO ABOUT PROD DATABASE 
 
